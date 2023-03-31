@@ -10,8 +10,12 @@ import sys
 import fire
 import questionary
 from pathlib import Path
+import csv
 
-from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import (
+    load_csv,
+    save_csv
+)
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -102,15 +106,25 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     return bank_data_filtered
 
 
+
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
 
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-    # @TODO: Complete the usability dialog for savings the CSV Files.
+    # @TODO: Complete the usability dialog for saving the CSV Files.
     # YOUR CODE HERE!
-
+    if not qualifying_loans.exists():
+        sys.exit(f"Oops! There are no qualifying loans")
+    csvpath = questionary.text("Save Qualifying Loans as a CSV File? Answer: yes or no").confirm().ask()
+    if csvpath == 'yes':
+        csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
+        csvpath = Path(csvpath)
+        save_csv(csvpath, qualifying_loans)
+    elif csvpath == 'no':
+        sys.exit(f"Ok Have a great day!")
+   
 
 def run():
     """The main function for running the script."""
