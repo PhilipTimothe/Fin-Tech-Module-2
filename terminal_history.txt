@@ -1,0 +1,4372 @@
+   50  git add .
+   51  git commit -m "Rating implementation and setup"
+   52  git push
+   53  rails s
+   54  rails s
+   55  rails s
+   56  git add .
+   57  git commit "Button creation for comment form, along with other detail specifics such as css and logic implementattion"
+   58  git commit  -m "-Button creation for comment form, along with other detail specifics such as css and logic implementattion"
+   59  git push
+   60  rails s
+   61  git add .
+   62  git commit -m "Debugging event target value respond.  Currently values aren't being attach to process form object"
+   63  git push
+   64  rails s
+   65  rails routes
+   66  rails s
+   67  rails s
+   68  rails db:reset
+   69  rails db:migrate
+   70  rails c
+   71  rails s
+   72  rails db:reset
+   73  rails s
+   74  git add .
+   75  git commit -m "Implemented successful fetch to server for form post expression"
+   76  git push
+   77  rails s
+   78   rails s
+   79  rails db:reset
+   80  rails s
+   81  git add . 
+   82  git commit -m"completing final project productions and fixing minor bugs"
+   83  git push
+   84  rails s
+   85  rails db:reset
+   86  rails s
+   87  rails c
+   88  cd night_out_api
+   89  rails c
+   90  rails c
+   91  ls
+   92  cd night_out_api
+   93  rails c
+   94  rails routes
+   95  rails s
+   96  ls
+   97  cd night_out_api
+   98  rail s
+   99  ls
+  100  rails s
+  101  git add .
+  102  git commit -m "slight refactor to clear bugs"
+  103  git push
+  104  git add .
+  105  git commit -m "addition of license & readme"
+  106  git push
+  107  ls
+  108  cd night_out_api
+  109  rails s
+  110  git add .
+  111  git commit -m "last bug fixed, project ready for submission"
+  112  git push
+  113  ls
+  114  cd Desktop
+  115  cd FlatIron
+  116  ls
+  117  cd Pro
+  118  cd Projects
+  119  ls
+  120  git clone https://github.com/TimothyPhilip/Night_Out_Javascript_Rails_Project.git
+  121  rails s
+  122  cd night_out_api
+  123  rails s
+  124  cd color-clock
+  125  ls
+  126  npm init
+  127  npm test
+  128  npm install moment
+  129  cd ..
+  130  ls
+  131  learn submit
+  132  ls
+  133  npm install
+  134  npm start
+  135  learn
+  136  learn
+  137  npm start
+  138  learn submit
+  139  learn
+  140  learn test
+  141  cd HelloToTheUniverse
+  142  learn
+  143  cd ..
+  144  ls
+  145  cd HelloToTheUniverse.xcodeproj
+  146  learn
+  147  learn
+  148  npm test
+  149  learn 
+  150  learn submit
+  151  npm install
+  152  npm start
+  153  npm install
+  154  learn
+  155  learn
+  156  learn
+  157  learn
+  158  learn
+  159  learn
+  160  learn
+  161  learn
+  162  learn
+  163  learn
+  164  learn
+  165  learn
+  166  learn
+  167  learn -f--f
+  168  learn
+  169  learn
+  170  learn
+  171  learn
+  172  learn save
+  173  learn
+  174  learn
+  175  learn
+  176  learn
+  177  learn
+  178  learn
+  179  learn
+  180  learn
+  181  learn save
+  182  learn submit
+  183  cd nyc_hiking_trails_api
+  184  ls
+  185  rails s
+  186  ls
+  187  cd nyc_hiking_trails_api
+  188  rails c
+  189  rails routes
+  190  rails routes
+  191  npm start
+  192  npm install
+  193  npm start
+  194  learn
+  195  npm test
+  196  npm test
+  197  npm test
+  198  npm start
+  199  npm test
+  200  npm test
+  201  npm test
+  202  npm test
+  203  npm test
+  204  npm test
+  205  npm test
+  206  npm test
+  207  npm test
+  208  npm test
+  209  npm test
+  210  npm test
+  211  npm test
+  212  npm test
+  213  npm test
+  214  npm test
+  215  npm test
+  216  npm test
+  217  npm test
+  218  npm test
+  219  npm test
+  220  npm test
+  221  npm test
+  222  npm test
+  223  npm test
+  224  npm test
+  225  npm test
+  226  npm test
+  227  ls
+  228  learn submit
+  229  npm start
+  230  bundle install
+  231  learn 
+  232  learn submit
+  233  npm install
+  234  learn
+  235  learn
+  236  learn
+  237  learn
+  238  learn
+  239  learn
+  240  learn
+  241  learn
+  242  learn save
+  243  learn
+  244  learn
+  245  learn
+  246  learn
+  247  learn
+  248  learn
+  249  learn
+  250  learn
+  251  learn
+  252  learn
+  253  learn submit
+  254  npm install
+  255  learn
+  256  learn
+  257  learn
+  258  learn
+  259  learn
+  260  learn
+  261  learn
+  262  learn
+  263  learn
+  264  learn
+  265  learn
+  266  learn
+  267  learn
+  268  learn
+  269  learn
+  270  learn
+  271  learn
+  272  learn
+  273  learn
+  274  learn
+  275  learn
+  276  learn
+  277  learn
+  278  npm start
+  279  npm test
+  280  npm test
+  281  npm test
+  282  leawrn
+  283  learn
+  284  learn
+  285  learn
+  286  learn submit
+  287  npm install
+  288  learn
+  289  learn
+  290  learn
+  291  learn
+  292  learn
+  293  learn
+  294  learn
+  295  learn
+  296  learn
+  297  learn submit
+  298  npm install
+  299  learn submit
+  300  npm install
+  301  learn
+  302  learn
+  303  learn
+  304  learn
+  305  learn
+  306  learn
+  307  learn
+  308  learn
+  309  learn submit
+  310  learn submit
+  311  learn
+  312  npm install
+  313  npm audit
+  314  npm audit fix
+  315  npm audit fix --force
+  316  learn
+  317  learn
+  318  learn
+  319  learn
+  320  learn
+  321  learn
+  322  learn
+  323  learn
+  324  learn
+  325  learn
+  326  learn
+  327  learn
+  328  learn
+  329  learn
+  330  learn
+  331  learn
+  332  learn
+  333  learn
+  334  learn
+  335  learn
+  336  learn
+  337  learn
+  338  learn
+  339  learn
+  340  learn
+  341  learn
+  342  learn
+  343  learn
+  344  learn
+  345  learn
+  346  learn
+  347  learn
+  348  learn
+  349  learn save
+  350  learn save
+  351  learn save
+  352  learnlearn
+  353  learn
+  354  learn
+  355  learn
+  356  learn save
+  357  npm install
+  358  learn
+  359  cd 
+  360  npm install
+  361  learn
+  362  learn
+  363  learn
+  364  learn
+  365  learn
+  366  learn
+  367  learn
+  368  learn
+  369  learn
+  370  learn
+  371  learn
+  372  learn
+  373  learn
+  374  learn
+  375  learn
+  376  learn
+  377  learn
+  378  learn submit
+  379  npm install
+  380  learn save
+  381  learn submit
+  382  ls
+  383  cd night_out_api
+  384  clear
+  385  rails s
+  386  git add .
+  387  git commit -m "creation of frontend query to have locations sorted by name alphabetically"
+  388  git push
+  389  rails s
+  390  git add .
+  391  git commit -m "Completion of code challenge / sorting location div's"
+  392  git push
+  393  npm install
+  394  learn
+  395  learn
+  396  learn
+  397  learn
+  398  npm start
+  399  npm learn
+  400  ls
+  401  learn
+  402  learn submit
+  403  npm install
+  404  learwn
+  405  learn
+  406  learn
+  407  learn
+  408  learn
+  409  learn
+  410  learn
+  411  learn
+  412  learn submit
+  413  npm install
+  414  learn
+  415  learn 
+  416  learn submit
+  417  clear
+  418  ls
+  419  cd night_out_api
+  420  rails s
+  421  npm install
+  422  learn submit
+  423  npm install
+  424  npm start
+  425  learn
+  426  learn submit
+  427  npm install
+  428  npm install
+  429  learn
+  430  learn
+  431  learn
+  432  learn
+  433  learn
+  434  learn
+  435  learn
+  436  learn
+  437  learn
+  438  learn
+  439  learn
+  440  learn
+  441  learn
+  442  learn
+  443  npm start
+  444  learn
+  445  learn submit
+  446  npm install
+  447  learn
+  448  learn
+  449  learn
+  450  learn
+  451  learn
+  452  learn
+  453  learn
+  454  learn
+  455  learn
+  456  learn
+  457  learn
+  458  learn
+  459  learn
+  460  learn
+  461  learn
+  462  learn
+  463  learn
+  464  learn
+  465  learn
+  466  learn
+  467  learn
+  468  learn
+  469  learn
+  470  learn
+  471  learn submit
+  472  npm start
+  473  npm install
+  474  learn submit
+  475  learn save
+  476  npm install --global npm
+  477  ls
+  478  cd Desktop
+  479  cd FlatIron
+  480  ls
+  481  cd Labs
+  482  ls
+  483  mkdir React
+  484  cd React
+  485  ls
+  486  mkdir Node_Package_Manager
+  487  mkdir Introduction
+  488  mkdir Props_and_State Events Forms Lifecycle_Methods
+  489  ls
+  490  mkdir Async_React Advanced_Components React_under_the_hhood Client_Side_Routing
+  491  ls
+  492  cd Introduction
+  493  ls
+  494  git clone https://github.com/TimothyPhilip/npm-lab-onl01-seng-pt-041320.git
+  495  cd npm-lab-onl01-seng-pt-041320
+  496  code .
+  497  ls
+  498  cd ..
+  499  l
+  500  ls
+  501  cd ..
+  502  ls
+  503  cd I
+  504  cd Introduction
+  505  ls
+  506  git clone https://github.com/TimothyPhilip/a-react-app-example-onl01-seng-pt-041320.git
+  507  cd a-react-app-example-onl01-seng-pt-041320
+  508  code .
+  509  ls
+  510  cd ..
+  511  cd ..
+  512  ls
+  513  cd ..
+  514  ls
+  515  mkdir Swift
+  516  cd ..
+  517  ls
+  518  cd Labs
+  519  cd Swift
+  520  git clone https://github.com/TimothyPhilip/swift-HelloToTheUniverse-lab-swift-intro-000.git
+  521  cd swift-HelloToTheUniverse-lab-swift-intro-000
+  522  code .
+  523  cd ..
+  524  cd ..
+  525  cd ls
+  526  ls
+  527  cd React
+  528  cd Introduction
+  529  git clone https://github.com/TimothyPhilip/react-static-components-lab-onl01-seng-pt-041320.git
+  530  cd react-static-components-lab-onl01-seng-pt-041320
+  531  code .
+  532  cd ..
+  533  ls
+  534  git clone https://github.com/TimothyPhilip/react-dynamic-components-lab-onl01-seng-pt-041320.git
+  535  cd react-dynamic-components-lab-onl01-seng-pt-041320
+  536  code .
+  537  ls
+  538  cd ..
+  539  ls
+  540  cd ..
+  541  cd ..
+  542  cd ..
+  543  ls
+  544  mkdir TeamWork
+  545  cd TeamWork
+  546  ls
+  547  git clone git@github.com:JGamez17/nyc_hiking_trails.git
+  548  cd nyc_hiking_trails
+  549  code .
+  550  cd ..
+  551  ls
+  552  cd ..
+  553  ls
+  554  cd Labs
+  555  LS
+  556  LS
+  557  CD React
+  558  ls
+  559  cd React
+  560  ls
+  561  cd Props_and_State
+  562  ls
+  563  git clone https://github.com/TimothyPhilip/react-props-movie-lab-onl01-seng-pt-041320.git
+  564  cd react-props-movie-lab-onl01-seng-pt-041320
+  565  code .
+  566  ls
+  567  cd ..
+  568  s
+  569  l
+  570  ls
+  571  git clone https://github.com/TimothyPhilip/react-events-crash-course-lab-onl01-seng-pt-041320.git
+  572  cd react-events-crash-course-lab-onl01-seng-pt-041320
+  573  code .
+  574  ls
+  575  cd ..
+  576  ls
+  577  git clone https://github.com/TimothyPhilip/react-simple-state-lab-onl01-seng-pt-041320.git
+  578  cd react-simple-state-lab-onl01-seng-pt-041320
+  579  code .
+  580  cd ..
+  581  ls
+  582  git clone https://github.com/TimothyPhilip/react-initial-state-lab-onl01-seng-pt-041320.git
+  583  cd react-initial-state-lab-onl01-seng-pt-041320
+  584  code .
+  585  cd ..
+  586  ls
+  587  git clone https://github.com/TimothyPhilip/react-using-callbacks-to-pass-information-lab-onl01-seng-pt-041320.git
+  588  cd react-using-callbacks-to-pass-information-lab-onl01-seng-pt-041320
+  589  code .
+  590  cd ..
+  591  cd ..
+  592  cd Events
+  593  git clone https://github.com/TimothyPhilip/react-event-system-lab-onl01-seng-pt-041320.git
+  594  ls
+  595  cd react-event-system-lab-onl01-seng-pt-041320
+  596  code .
+  597  cd ..
+  598  ls
+  599  git clone https://github.com/TimothyPhilip/react-events-in-detail-lab-onl01-seng-pt-041320.git
+  600  cd react-events-in-detail-lab-onl01-seng-pt-041320
+  601  code .
+  602  cd ..
+  603  ls
+  604  cd 
+  605  cd Desktop
+  606  cd FlatIron/Labs/React
+  607  ls
+  608  cd Events
+  609  ls
+  610  git clone https://github.com/TimothyPhilip/react-events-in-detail-lab-onl01-seng-pt-041320.git
+  611  cd react-events-in-detail-lab-onl01-seng-pt-041320
+  612  code .
+  613  ls
+  614  code .
+  615  code .
+  616  cd ..
+  617  ls
+  618  git clone https://github.com/TimothyPhilip/react-updating-state-onl01-seng-pt-041320.git
+  619  cd react-updating-state-onl01-seng-pt-041320
+  620  code .
+  621  cd ..
+  622  ls
+  623  git clone https://github.com/TimothyPhilip/react-updating-state-lab-onl01-seng-pt-041320.git
+  624  cd react-updating-state-lab-onl01-seng-pt-041320
+  625  code .
+  626  cd ..
+  627  ls
+  628  cd ..
+  629  cd Forms
+  630  git clone https://github.com/TimothyPhilip/react-forms-onl01-seng-pt-041320.git
+  631  cd react-forms-onl01-seng-pt-041320
+  632  code .
+  633  ls
+  634  cd ..
+  635  ls
+  636  git clone https://github.com/TimothyPhilip/react-forms-lab-onl01-seng-pt-041320.git
+  637  cd react-forms-lab-onl01-seng-pt-041320
+  638  code .
+  639  cd ..
+  640  ls
+  641  git clone https://github.com/TimothyPhilip/react-props-and-state-lab-onl01-seng-pt-041320.git
+  642  cd react-props-and-state-lab-onl01-seng-pt-041320
+  643  code .
+  644  cd ..
+  645  ls
+  646  cd ..
+  647  ls
+  648  cd Lifecycle_Methods
+  649  git clone https://github.com/TimothyPhilip/react-component-mounting-lab-onl01-seng-pt-041320.git
+  650  ls
+  651  cd react-component-mounting-lab-onl01-seng-pt-041320
+  652  code .
+  653  ls
+  654  cd ..
+  655  ls
+  656  cd ..
+  657  ls
+  658  cd ..
+  659  cd ..
+  660  ls
+  661  cd Projects
+  662  ls
+  663  cd javascript_rails_project
+  664  ls
+  665  code .
+  666  ls 
+  667  cd ..
+  668  ls
+  669  cd ..
+  670  ls
+  671  cd Labs
+  672  ls
+  673  cd React
+  674  ls
+  675  cd Lifecycle_Methods
+  676  ls
+  677  git clone https://github.com/TimothyPhilip/react-component-mounting-and-unmounting-lab-onl01-seng-pt-041320.git
+  678  ls
+  679  ls
+  680  cd react-component-mounting-and-unmounting-lab-onl01-seng-pt-041320
+  681  code .
+  682  cd ..
+  683  ls
+  684  git clone https://github.com/TimothyPhilip/react-component-updating-lab-onl01-seng-pt-041320.git
+  685  cd react-component-updating-lab-onl01-seng-pt-041320
+  686  code .
+  687  ls
+  688  cd ..
+  689  cd ..
+  690  ls
+  691  cd Async_React
+  692  ls
+  693  git clone https://github.com/TimothyPhilip/react-async-fetch-lab-onl01-seng-pt-041320.git
+  694  cd react-async-fetch-lab-onl01-seng-pt-041320
+  695  code .
+  696  cd ..
+  697  ls
+  698  git clone https://github.com/TimothyPhilip/react-async-gif-search-lab-onl01-seng-pt-041320.git
+  699  cd react-async-gif-search-lab-onl01-seng-pt-041320
+  700  code .
+  701  ls
+  702  cd ..
+  703  ls
+  704  cd ..
+  705  cd Advanced_Components
+  706  ls
+  707  git clone https://github.com/TimothyPhilip/react-presentation-components-lab-onl01-seng-pt-041320.git
+  708  cd . react-presentation-components-lab-onl01-seng-pt-0
+  709  cd react-presentation-components-lab-onl01-seng-pt-041320
+  710  code .
+  711  learn
+  712  learn submit
+  713  npm install
+  714  learn
+  715  learn submit
+  716  learn submit
+  717  npm install
+  718  learn
+  719  learn submit
+  720  learn
+  721  learn submit
+  722  learn submit
+  723  learn submit
+  724  learn submit
+  725  npm install
+  726  learn
+  727  learn
+  728  learn
+  729  learn
+  730  learn
+  731  learn
+  732  learn
+  733  learn
+  734  learn
+  735  learn
+  736  learn
+  737  learn
+  738  learn
+  739  learn submit
+  740  npm install
+  741  learn submit
+  742  npm install react-redux --save
+  743  learn submit
+  744  npm install
+  745  npm start
+  746  learn submit
+  747  learn submit
+  748  learn submit
+  749  learn save
+  750  learn submit
+  751  learn submit
+  752  learn submit
+  753  npm install
+  754  learn submit
+  755  learn submit
+  756  ls
+  757  cd ..
+  758  ls
+  759  git clone https://github.com/TimothyPhilip/react-container-components-lab-onl01-seng-pt-041320.git
+  760  cd react-container-components-lab-onl01-seng-pt-041320
+  761  code .
+  762  ls
+  763  cd ..
+  764  ls
+  765  cd ..
+  766  ls
+  767  cd Client_Side_Routing
+  768  ls
+  769  git clone
+  770  git clone https://github.com/TimothyPhilip/react-components-as-routes-onl01-seng-pt-041320.git
+  771  ls
+  772  cd react-components-as-routes-onl01-seng-pt-041320
+  773  code .
+  774  ls
+  775  cd ..
+  776  ls
+  777  git clone https://github.com/TimothyPhilip/react-components-as-routes-lab-onl01-seng-pt-041320.git
+  778  cd react-components-as-routes-lab-onl01-seng-pt-041320
+  779  code .
+  780  cd ..
+  781  ls
+  782  git clone https://github.com/TimothyPhilip/react-router-nested-routes-code-along-onl01-seng-pt-041320.git
+  783  cd react-router-nested-routes-code-along-onl01-seng-pt-041320
+  784  ls
+  785  code .
+  786  ls
+  787  cd ..
+  788  ls
+  789  cd ..
+  790  ls
+  791  cd ..
+  792  ls
+  793  mkdir Redux
+  794  cd Redux
+  795  ls
+  796  mkdir Building_Redux
+  797  cd Building_Redux
+  798  git clone https://github.com/TimothyPhilip/redux-reducer-onl01-seng-pt-041320.git
+  799  cd redux-reducer-onl01-seng-pt-041320
+  800  code .
+  801  ls
+  802  cd ..
+  803  ls
+  804  git clone https://github.com/TimothyPhilip/redux-dispatch-onl01-seng-pt-041320.git
+  805  ls
+  806  cd redux-dispatch-onl01-seng-pt-041320
+  807  code .
+  808  cd ..
+  809  ls
+  810  git clone https://github.com/TimothyPhilip/redux-initial-dispatch-onl01-seng-pt-041320.git
+  811  cd redux-initial-dispatch-onl01-seng-pt-041320
+  812  code .
+  813  ls
+  814  cd ..
+  815  ls
+  816  git clone https://github.com/TimothyPhilip/redux-dispatch-with-event-listeners-onl01-seng-pt-041320.git
+  817  cd redux-dispatch-with-event-listeners-onl01-seng-pt-041320
+  818  code .
+  819  ls
+  820  cd ..
+  821  ls
+  822  git clone https://github.com/TimothyPhilip/redux-create-store-onl01-seng-pt-041320.git
+  823  ls
+  824  cd redux-create-store-onl01-seng-pt-041320
+  825  ls
+  826  code .
+  827  cd ..
+  828  ls
+  829  git clone https://github.com/TimothyPhilip/redux-create-store-lab-onl01-seng-pt-041320.git
+  830  cd redux-create-store-lab-onl01-seng-pt-041320
+  831  ls
+  832  code .
+  833  ls
+  834  cd ..
+  835  ls
+  836  cd ..
+  837  ls
+  838  mkdir Redux_Library
+  839  ls
+  840  cd Redux_Library
+  841  git clone https://github.com/TimothyPhilip/intro-to-redux-library-codealong-onl01-seng-pt-041320.git
+  842  cd intro-to-redux-library-codealong-onl01-seng-pt-041320
+  843  code .
+  844  ls
+  845  cd ..
+  846  ls
+  847  git clone https://github.com/TimothyPhilip/map-state-to-props-readme-onl01-seng-pt-041320.git
+  848  cd map-state-to-props-readme-onl01-seng-pt-041320
+  849  code .
+  850  cd ..
+  851  ls
+  852  git clone https://github.com/TimothyPhilip/review-map-state-to-props-readme-onl01-seng-pt-041320.git
+  853  cd review-map-state-to-props-readme-onl01-seng-pt-041320
+  854  code .
+  855  cd ..
+  856  ls
+  857  git clone 
+  858  git clone https://github.com/TimothyPhilip/map-state-to-props-lab-onl01-seng-pt-041320.git
+  859  cd map-state-to-props-lab-onl01-seng-pt-041320
+  860  code .
+  861  cd ..
+  862  ls
+  863  git clone https://github.com/TimothyPhilip/map-dispatch-to-props-readme-onl01-seng-pt-041320.git
+  864  cd map-dispatch-to-props-readme-onl01-seng-pt-041320
+  865  code .
+  866  cd ..
+  867  ls
+  868  git clone https://github.com/TimothyPhilip/combine-reducers-onl01-seng-pt-041320.git
+  869  cd combine-reducers-onl01-seng-pt-041320
+  870  code .
+  871  cd ..
+  872  cd ..
+  873  ls
+  874  mkdir React_Redux_Continued
+  875  cd React_Redux_Continued
+  876  git clone https://github.com/TimothyPhilip/redux-forms-codealong-onl01-seng-pt-041320.git
+  877  cd redux-forms-codealong-onl01-seng-pt-041320
+  878  code .
+  879  cd ..
+  880  ls
+  881  git clone https://github.com/TimothyPhilip/redux-index-codealong-onl01-seng-pt-041320.git
+  882  cd redux-index-codealong-onl01-seng-pt-041320
+  883  code .
+  884  cd ..
+  885  ls
+  886  git clone https://github.com/TimothyPhilip/redux-delete-codealong-onl01-seng-pt-041320.git
+  887  cd redux-delete-codealong-onl01-seng-pt-041320
+  888  code .
+  889  cd ..
+  890  cd ..
+  891  ls
+  892  cd ..
+  893  cd ..
+  894  ls
+  895  cd Projects
+  896  ls
+  897  git clone https://github.com/TimothyPhilip/Portfolio_Planner.git
+  898  cd Portfolio_Planner
+  899  ls
+  900  mkdir Backend Frontend
+  901  ls
+  902  cd Frontend
+  903  ls
+  904  cd ..
+  905  ls
+  906  create-react-app frontend
+  907  create-react-app
+  908  ls
+  909  create-react-app frontend
+  910  node -v
+  911  cd ..
+  912  ls
+  913  create-react-app frontend
+  914  ls
+  915  npm cache clean --force
+  916  cd Portfolio_Planner
+  917  ls
+  918  create-react-app frontend
+  919  export PATH=$HOME/.node_modules_global/bin:$PATH
+  920  cd Desktop
+  921  cd FlatIron
+  922  cd Projects/Portfolio_Planner
+  923  create-react-app frontend
+  924  ls
+  925  autoload -Uz compinit\ncompinit
+  926  ls
+  927  create-react-app frontend
+  928  bash
+  929  autoload -Uz compinit
+  930  compinit
+  931  ~/.zprofile
+  932  ls
+  933  cd
+  934  ls
+  935  cd .
+  936  ls
+  937  $HOME
+  938  ls
+  939  cd P
+  940  cd Public
+  941  ls
+  942  cd 
+  943  ls
+  944  cd ~
+  945  .bash_profile.bak
+  946  mv .bash_profile.bak .bash_profile
+  947  rm .bash_profile 
+  948  mv .bash_profile.bak .bash_profile 
+  949  ls
+  950  xcode-select --install
+  951  Software Update
+  952  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  953  brew help
+  954  rvm list
+  955  echo $SHELL
+  956  brew install zsh
+  957  brew upgrade zsh
+  958  chsh -s /bin/zsh
+  959  brew install gmp
+  960  brew upgrade gmp
+  961  brew install gnupg
+  962  brew link gnupg
+  963  rvm install 2.6.1
+  964  rvm use 2.6.1 --default
+  965  rvm install 2.6.1
+  966  mv ~/.gitignore{,.bak}
+  967  mv ~/.zprofile{,.bak}
+  968  mv ~/.gitconfig{,.bak}
+  969  curl "https://raw.githubusercontent.com/flatiron-school/dotfiles/master/ubuntu-gitignore" -o "$HOME/.gitignore"
+  970  curl "https://raw.githubusercontent.com/flatiron-school/dotfiles/master/.zprofile" -o "$HOME/.zprofile"\nsource ~/.zprofile
+  971  curl "https://raw.githubusercontent.com/flatiron-school/dotfiles/master/gitconfig" -o "$HOME/.gitconfig"\n
+  972  rvm get stable --auto-dotfiles\n
+  973  install GPG v2
+  974  rvm get stable --auto-dotfiles\n
+  975  rvm use ruby-2.6.1
+  976  rvm get stable --auto-dotfiles\n
+  977  brew install gpg2
+  978  brew reinstall gnupg
+  979  rvm get stable --auto-dotfiles\n
+  980  gpg2 --gen-key
+  981  gpg --gen-key
+  982  rvm get stable --auto-dotfiles\n
+  983  rvm get stable --auto-dotfiles
+  984  gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+  985  rvm get stable --auto-dotfiles
+  986  curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/manual-setup-check.sh | bash 2> /dev/null\n
+  987  git config --global user.email "PhilippeTimothe@gmail.com"
+  988  git config --global user.name "Philippe Timothe"
+  989  cat ~/.ssh/id_rsa.pub
+  990  brew install gmp
+  991  brew install gnupg
+  992  brew reinstall gmp
+  993  brew reinstall gnupg
+  994  curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/manual-setup-check.sh | bash 2> /dev/null\n
+  995  ls
+  996  cd ~
+  997  .bash_profile.bak
+  998  mv .bash_profile.bak .bash_profile 
+  999  brew install bash
+ 1000  .bash_profile.bak
+ 1001  ls
+ 1002  ZSH_THEME=""
+ 1003  ls
+ 1004  ZSH_THEME="apple"
+ 1005  cd Desktop
+ 1006  ZSH_THEME=apple
+ 1007  ZSH_THEME=robbyrussell
+ 1008  ZSH_THEME=apple
+ 1009  $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"\n\n
+ 1010  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+ 1011  ls
+ 1012  ZSH_THEME=apple
+ 1013  ZSH_THEME=robbyrussell
+ 1014  cd ..
+ 1015  ls
+ 1016  cd Philip
+ 1017  ls
+ 1018  ZSH_THEME=apple
+ 1019  ls
+ 1020  cd ..
+ 1021  ls
+ 1022  cd private
+ 1023  ls
+ 1024  cd etc
+ 1025  ls
+ 1026  code .
+ 1027  cd
+ 1028  ls
+ 1029  cd
+ 1030  ls
+ 1031  nano .zshrc
+ 1032  LS
+ 1033  cd Desktop/FlatIron/Projects
+ 1034  ls
+ 1035  cd Portfolio_Planner
+ 1036  ls
+ 1037  create-react-app Frontend
+ 1038  ls
+ 1039  nano .profile
+ 1040  cd Desktop/FlatIron/Projects
+ 1041  ls
+ 1042  cd Portfolio_Planner
+ 1043  ls
+ 1044  create-react-app Frontend
+ 1045  nano .profile
+ 1046  npm install
+ 1047  create-react-app Frontend
+ 1048  npm install-g create-react-app Frontend
+ 1049  npm install -g create-react-app Frontend
+ 1050  ls
+ 1051  sudo nano /etc/paths
+ 1052  npm install reinstall -g
+ 1053  create-react-app Frontend
+ 1054  $sudo rm -rf <path>
+ 1055  brew install node
+ 1056  brew postinstall node
+ 1057  create-react-app Frontend
+ 1058  npm install -g create-react-app
+ 1059  sudo npm install -g create-react-app
+ 1060  create-react-app Frontend
+ 1061  create-react-app frontend
+ 1062  ls
+ 1063  rails new backend-api --api
+ 1064  ls
+ 1065  code .
+ 1066  add .
+ 1067  . add
+ 1068  git add .
+ 1069  rails new backend-api --api -G -M
+ 1070  ls
+ 1071  git init
+ 1072  git add .
+ 1073  git commit -m "First initial commit / creation of react frontend and rails api backend "
+ 1074  git push
+ 1075  ls
+ 1076  code .
+ 1077  git add .
+ 1078  git commit -m "git ignore master key"
+ 1079  git commit
+ 1080  git push
+ 1081  git add .
+ 1082  git commit "Changes to the skeleton/removal of git file "
+ 1083  git push
+ 1084  git add .
+ 1085  git commit -m "Changes to the skeleton/removal of git file "
+ 1086  git push
+ 1087  cd fron
+ 1088  cd frontend
+ 1089  ls
+ 1090  cd src
+ 1091  mkdir components containers
+ 1092  cd containers
+ 1093  ls
+ 1094  touch CompanyContainer.js
+ 1095  touch SearchContainer.js
+ 1096  git commit --amend
+ 1097  git push --force
+ 1098  git add .
+ 1099  git commit -m "first commit after amend actions"
+ 1100  git push
+ 1101  cd ..
+ 1102  ls
+ 1103  git add .
+ 1104  git commit -m "recommit"
+ 1105  git push
+ 1106  ls
+ 1107  cd backend-api
+ 1108  ls -la
+ 1109  cd ..
+ 1110  ls
+ 1111  cd frontend
+ 1112  ls -la
+ 1113  ls
+ 1114  cd src/components
+ 1115  touch CompanyDetails.js SearchBar.js
+ 1116  cd .. ..
+ 1117  ls
+ 1118  cd ..
+ 1119  cd ../..
+ 1120  ls
+ 1121  cd frontend
+ 1122  ls
+ 1123  npm install uuid
+ 1124  cd ..
+ 1125  ls
+ 1126  git add .
+ 1127  git commit -m "Search Component creation.  Working on establishing object id association after fetching details from external api" 
+ 1128  git push
+ 1129  ls
+ 1130  cd frontend
+ 1131  ls
+ 1132  npm start
+ 1133  yarn add react-bootstrap bootstrap
+ 1134  npm start
+ 1135  ls
+ 1136  cd ..
+ 1137  ls
+ 1138  cd mechanic_book
+ 1139  code .
+ 1140  npm install dotenv
+ 1141  npm start
+ 1142  npm install
+ 1143  npm start
+ 1144  npm reinstall
+ 1145  npm uninstall
+ 1146  npm install
+ 1147  ls
+ 1148  cd fr
+ 1149  cd frontend
+ 1150  npm start
+ 1151  npm uninstall dotenv
+ 1152  npm reinstall
+ 1153  npm install
+ 1154  npm start
+ 1155  git add .
+ 1156  git commit -m "Rework of search form. Secured API key. Creation of presentation search component. Functionality for search form is green"  
+ 1157  git push
+ 1158  npm start
+ 1159  git add .
+ 1160  git commit -m "Unique key implemented for every new company mapped"
+ 1161  git push
+ 1162  npm start
+ 1163  git add .
+ 1164  git commit -m "Successful click event added from component CompanyList.js to CompanySearchForm.js.  Now currently working towards accessing key id for every object mapped."
+ 1165  git push
+ 1166  npm start
+ 1167  git add .
+ 1168  git commmit -m "Successful implementation of click event securing clicked object data for use in state or fetch"
+ 1169  git commit -m "Successful implementation of click event securing clicked object data for use in state or fetch"
+ 1170  git push
+ 1171  npm start
+ 1172  git add .
+ 1173  git commit -m "Restructuring of containers and componets for a more cohesive and cleaner app"
+ 1174  git push
+ 1175  npm start
+ 1176  git add .
+ 1177  git commit -m "Implementation of Company Overview Card which displays vital company data such as description of company, address, etc."
+ 1178  git push
+ 1179  npm start
+ 1180  git add .
+ 1181  git commit -m "Debugged CompanyOverview Card which now allows current companies selected to render with data.  State of currentCompany is cleared before any new fetch or click allowing for only one object to exist in its state array."
+ 1182  git push
+ 1183  npm start
+ 1184  npm install react-router-dom
+ 1185  git add .
+ 1186  git commit -m "Working towards sepearation of concerns and functionality, along with client side routing."
+ 1187  git push
+ 1188  npm start
+ 1189  learn submit
+ 1190  npm install
+ 1191  learn 
+ 1192  learn
+ 1193  learn submit
+ 1194  npm install
+ 1195  learn submit
+ 1196  learn submit
+ 1197  learn submit
+ 1198  npm install
+ 1199  learn submit
+ 1200  npm install
+ 1201  learn submit
+ 1202  npm install
+ 1203  npm start
+ 1204  npm install react-router-dom
+ 1205  learn submit
+ 1206  cd frontend
+ 1207  npm start
+ 1208  npm install --save react-router-dom
+ 1209  npm start
+ 1210  npm install chart.js --save\n
+ 1211  npm install --save react-chartjs-2 chart.js
+ 1212  git add .
+ 1213  git commit -m "Router is bugged.  Moved on to implementing charts and data for such charts"
+ 1214  git push
+ 1215  npm start
+ 1216  git add .
+ 1217  git commit -m "Implementation of Company historical data chart.  A bugged remains when grabbing data.  Revisting these issues."
+ 1218  git push
+ 1219  npm start
+ 1220  git add .
+ 1221  git commit -m "Addition of site Nav Bar"
+ 1222  cd ...
+ 1223  ls
+ 1224  cd Projects
+ 1225  ls
+ 1226  cd javascript_rails_project
+ 1227  code .
+ 1228  npm start
+ 1229  git add .
+ 1230  git commit-m "Sorted the order of chart data to reflect data in the order of oldest to newest."
+ 1231  git commit -m "Sorted the order of chart data to reflect data in the order of oldest to newest."
+ 1232  git push
+ 1233  npm start
+ 1234  git add .
+ 1235  git commit -m "introduction of user portfolio, which allows a user to add a company to a personal portfolio."
+ 1236  git push
+ 1237  npm start
+ 1238  git add .
+ 1239  git commit -m "reworking routers, condition added for Chart container."
+ 1240  git push
+ 1241  npm start
+ 1242  git add .
+ 1243  git commit -m "Working on debugging router and container components"
+ 1244  git push
+ 1245  npm start
+ 1246  npm install react-redux redux redux-logger redux-thunk 
+ 1247  npm start
+ 1248  git add .
+ 1249  git push
+ 1250  npm start
+ 1251  git add .
+ 1252  git commit -m "Working toward using redux to fetch and render data for company container."
+ 1253  git push
+ 1254  npm start
+ 1255  git add .
+ 1256  git commit -m "Continuation of redux implementation"
+ 1257  git push
+ 1258  npm start
+ 1259  git add .
+ 1260  git commit -m "Cleared all relative bugs from the present state of the application.  Moving on to clean up and portfolio implementation."
+ 1261  git push
+ 1262  npm start
+ 1263  git add .
+ 1264  git commit -m "Success with implementation of porfolio, which saves desired companies to financial portfolio of user.  Working towards delete functionality that removes an undesirable company from portfolio."
+ 1265  git push
+ 1266  npm start
+ 1267  git add .
+ 1268  git commit -m "Delete functionality is implemented with no bugs. Reviewing processes to clean code."
+ 1269  git push
+ 1270  npm start
+ 1271  ls
+ 1272  cd frontend
+ 1273  npm start
+ 1274  git add .
+ 1275  git commit -m "cleared delete bugg.  Modal now closes on delete."
+ 1276  git push
+ 1277  ls
+ 1278  cd ..
+ 1279  ls
+ 1280  cd javascript_rails_project
+ 1281  code .
+ 1282  cd ..
+ 1283  ls
+ 1284  cd backend-api
+ 1285  ls
+ 1286  rails g resource Portfolio company_name company_symbol company_industry company_region
+ 1287  cd ..
+ 1288  ls
+ 1289  cd mechanic_book
+ 1290  code .
+ 1291  rails g resource Company name symbol industry region portfolio_id
+ 1292  rails g resource User username
+ 1293  bundle
+ 1294  rails db:migrate
+ 1295  git add .
+ 1296  git commit -m "Begining of backend implementation."
+ 1297  git push
+ 1298  rails db:
+ 1299  rails --tasks
+ 1300  rails db:rollback
+ 1301  rails db:migrate
+ 1302  rails routes
+ 1303  ls
+ 1304  cd night_out_api
+ 1305  rails routes
+ 1306  clear
+ 1307  npm start
+ 1308  ls
+ 1309  cd ..
+ 1310  cd frontend
+ 1311  ls
+ 1312  npm start
+ 1313  git add . 
+ 1314  git commit -m "Introduction of seeded data, addition of one new case switch along with an action."
+ 1315  git push
+ 1316  ls
+ 1317  cd backend-api
+ 1318  rails c
+ 1319  ls
+ 1320  cd backend-api
+ 1321  rails db:seed
+ 1322  rails c
+ 1323  ls
+ 1324  cd night_out_api
+ 1325  rails s
+ 1326  rails c
+ 1327  rails db:reset
+ 1328  rails db:seed
+ 1329  rails c
+ 1330  clear
+ 1331  ls
+ 1332  rails c
+ 1333  rails db:rollback
+ 1334  rails db:reset
+ 1335  rails db:migrate
+ 1336  rails db:rollback
+ 1337  rails db:reset
+ 1338  rails db:seed
+ 1339  rails db:migrate
+ 1340  rails db:reset
+ 1341  rails db:seed
+ 1342  bundle
+ 1343  rails db:seed
+ 1344  rails c
+ 1345  rails db:rollback
+ 1346  rails d resource User username
+ 1347  rails db:migrate
+ 1348  rails db:reset
+ 1349  rails db:migrate
+ 1350  rails db:seed
+ 1351  rails c
+ 1352  rails db:reset
+ 1353  rails db:seed
+ 1354  rails c
+ 1355  rails db:seed
+ 1356  rails c
+ 1357  rails s
+ 1358  cd frontend
+ 1359  ls
+ 1360  npm start
+ 1361  rails db:rollback
+ 1362  rails db:migrate
+ 1363  rails db:reset
+ 1364  rails db:seed
+ 1365  rails c
+ 1366  rails s
+ 1367  npm start
+ 1368  rails db:rollback
+ 1369  rails db:migrate
+ 1370  rails db:reset
+ 1371  rails db:rollback
+ 1372  rails db:reset
+ 1373  rails db:migrate
+ 1374  rails c
+ 1375  rails db:seed
+ 1376  rails c
+ 1377  rails s
+ 1378  npm start
+ 1379  rails s
+ 1380  npm start
+ 1381  rails s
+ 1382  cd ..
+ 1383  ls
+ 1384  cd frontend
+ 1385  npm start
+ 1386  rails s
+ 1387  npm start
+ 1388  rails s
+ 1389  npm start
+ 1390  rails s
+ 1391  npm start
+ 1392  rails s
+ 1393  npm start
+ 1394  rails s
+ 1395  npm start
+ 1396  rails s
+ 1397  npm start
+ 1398  rails s
+ 1399  npm start
+ 1400  rails s
+ 1401  npm start
+ 1402  rails s
+ 1403  npm start
+ 1404  git add .
+ 1405  git commit -m "Completion of backend fetch request."
+ 1406  git push
+ 1407  git add .
+ 1408  git commit -m "Work"
+ 1409  git push
+ 1410  rails routes
+ 1411  rails s
+ 1412  npm start
+ 1413  rails s
+ 1414  npm start
+ 1415  ls
+ 1416  cd ..
+ 1417  ls
+ 1418  git add .
+ 1419  git commit -m "Create function implemented on the backend. Frontend syncing with data properly."
+ 1420  git push
+ 1421  cd backend-api
+ 1422  rails routes
+ 1423  rails s
+ 1424  npm start
+ 1425  rails s
+ 1426  npm start
+ 1427  rails routes
+ 1428  rails s
+ 1429  npm start
+ 1430  cd ..
+ 1431  ls
+ 1432  git add .
+ 1433  git commit -m "Working out delete and it functional code bugs."
+ 1434  git push
+ 1435  cd backend-api
+ 1436  rails s
+ 1437  npm start
+ 1438  rails c
+ 1439  rails reset
+ 1440  rails db:reset
+ 1441  rails c
+ 1442  rails s
+ 1443  npm start
+ 1444  rails db:reset
+ 1445  rails c
+ 1446  rails db:seed
+ 1447  rails db:reset
+ 1448  rails c
+ 1449  rails s
+ 1450  npm start
+ 1451  cd ..
+ 1452  ls
+ 1453  git add .
+ 1454  git commit -m "Completion of all required project tasks."
+ 1455  git push
+ 1456  cd backend-api
+ 1457  ls
+ 1458  cd backend-api
+ 1459  cd frontend
+ 1460  ls
+ 1461  rails s
+ 1462  npm start
+ 1463  git add .
+ 1464  git commit -m "End day finishes"
+ 1465  git push
+ 1466  ls
+ 1467  cd frontend
+ 1468  npm start
+ 1469  cd ..
+ 1470  ls
+ 1471  git add .
+ 1472  git commit -m "Creation of Landing Page component"
+ 1473  git push
+ 1474  ls
+ 1475  cd Fonetica_backend-main
+ 1476  cd Fonetica_frontend-main
+ 1477  ls
+ 1478  rails s
+ 1479  bundle install
+ 1480  cd Desktop
+ 1481  cd FlatIron/Projects
+ 1482  ls
+ 1483  cd Patricias_Project
+ 1484  git clone git@github.com:chica25/Fonetica_frontend.git
+ 1485  ls
+ 1486  git clone git@github.com:chica25/Fonetica_backend.git
+ 1487  ls
+ 1488  code .
+ 1489  bundle install
+ 1490  cd Fonetica_backend
+ 1491  bundle install
+ 1492  bundle
+ 1493  gem install msgpack
+ 1494  bundle install
+ 1495  gem install msgpack -v 1.4.1
+ 1496  bundle
+ 1497  gem install msgpack -v 1.4.1
+ 1498  gem info msgpack
+ 1499  gem uninstall msgpack
+ 1500  bundle install
+ 1501  gem install msgpack -v 1.4.1
+ 1502  bundle install
+ 1503  gem install msgpack -v 1.4.1
+ 1504  code .
+ 1505  cd Fonetica_backend
+ 1506  gem uninstall msgpack
+ 1507  gem install msgpack -v 1.4.1
+ 1508  ls
+ 1509  cd backend-api
+ 1510  bundle
+ 1511  bundle install
+ 1512  gem uninstall msgpack
+ 1513  gem install msgpack 
+ 1514  bundle install
+ 1515  rails s
+ 1516  ls
+ 1517  npm start
+ 1518  npm install
+ 1519  yarn install --check-files
+ 1520  rails s
+ 1521  npm start
+ 1522  rails migrate
+ 1523  rails db:migrate
+ 1524  rails db:seed
+ 1525  rails s
+ 1526  cleara
+ 1527  clear
+ 1528  code .
+ 1529  ls
+ 1530  cd
+ 1531  ls
+ 1532  cd Desktop
+ 1533  cd FlatIron/Projects
+ 1534  ls
+ 1535  cd Patricia_Project
+ 1536  ls
+ 1537  code .
+ 1538  ls
+ 1539  c Fonetica_backend-main
+ 1540  rails s
+ 1541  cd Fonetica_frontend-main
+ 1542  npm start
+ 1543  ls
+ 1544  cd Fonetica_backend-main
+ 1545  rails s
+ 1546  npm start
+ 1547  npm install
+ 1548  npm start
+ 1549  npm install
+ 1550  npm install -g npm
+ 1551  ls
+ 1552  cd ..
+ 1553  ls
+ 1554  cd frontend
+ 1555  npm start
+ 1556  ls
+ 1557  cd backend-api
+ 1558  clear
+ 1559  cd frontend
+ 1560  ls
+ 1561  clear
+ 1562  rails s
+ 1563  npm start
+ 1564  ls
+ 1565  cd
+ 1566  git add .
+ 1567  ls
+ 1568  cd Desktop/FlatIron/Projects
+ 1569  ls
+ 1570  cd Portfolio_Planner
+ 1571  git add .
+ 1572  git commit -m "Seperation of backend"
+ 1573  git push
+ 1574  npm start
+ 1575  ls
+ 1576  cd fr
+ 1577  cd frontend
+ 1578  npm start
+ 1579  git add .
+ 1580  git commit -m
+ 1581  ls
+ 1582  git commit -m "readme remove"
+ 1583  git push
+ 1584  cd ..
+ 1585  ls
+ 1586  cd 
+ 1587  ls
+ 1588  cd Desktop
+ 1589  cd FlatIron/Projects
+ 1590  cd Portfolio_Planner
+ 1591  ls
+ 1592  npm start
+ 1593  ls
+ 1594  git add .
+ 1595  git commit -m "Restructuring files"
+ 1596  git push
+ 1597  git add . 
+ 1598  git commit -m "Deploy feature"
+ 1599  git push
+ 1600  npm run deploy
+ 1601  $ git remote add origin https://github.com/philiptimothe/Portfolio_Planner.git
+ 1602  git remote add origin https://github.com/philiptimothe/Portfolio_Planner.git
+ 1603  npm run deploy
+ 1604  npm install gh-pages --save-dev
+ 1605  npm audit fix
+ 1606  npm install gh-pages --save-dev
+ 1607  npm audit fix
+ 1608  npm i jquery@1.9.1 --save
+ 1609  npm audit fix
+ 1610  npm popper.js@^1.16.1 --save
+ 1611  npm start
+ 1612  npm install
+ 1613  npm start
+ 1614  npm run deploy
+ 1615  git add .
+ 1616  git commit -m "minor change"
+ 1617  git push
+ 1618  npm start
+ 1619  git add .
+ 1620  git commit -m "Route changes"
+ 1621  git push
+ 1622  npm run deploy
+ 1623  git add .
+ 1624  git commit -m "deploy functionality issues"
+ 1625  git push
+ 1626  lx
+ 1627  ls
+ 1628  cd ..
+ 1629  cd...
+ 1630  cd ..
+ 1631  ls
+ 1632  cd ..
+ 1633  ls
+ 1634  git --version
+ 1635  brew tap heroku/brew && brew install heroku
+ 1636  heroku --version
+ 1637  heroku login
+ 1638  clear
+ 1639  ls
+ 1640  rails c
+ 1641  bundle install
+ 1642  ruby -v
+ 1643  cd Desktop/FlatIron/Projects
+ 1644  ls
+ 1645  cd Portfolio_Planner_Backend
+ 1646  git remote add origin https://github.com/PhilipTimothe/Portfolio_Planner_Backend.git
+ 1647  git init
+ 1648  git commit -m "first commit"
+ 1649  git branch -M main
+ 1650  git remote add origin https://github.com/PhilipTimothe/Portfolio_Planner_Backend.git
+ 1651  git push -u origin main
+ 1652  git init
+ 1653  git commit -m "first commit"
+ 1654  git branch -M main
+ 1655  git commit -m "first commit"
+ 1656  git remote add origin https://github.com/PhilipTimothe/Portfolio_Planner_Backend.git
+ 1657  git add .
+ 1658  git commit -m "initial commit for seperation of backend from frontend"
+ 1659  git remote add origin https://github.com/PhilipTimothe/Portfolio_Planner_Backend.git
+ 1660  git remote add origin https://github.com/PhilipTimothe/Porfolio_Planner_Backend.git
+ 1661  git init
+ 1662  git commit -m "initial commit for seperation of backend from frontend"
+ 1663  git branch -M main
+ 1664  git remote add origin https://github.com/PhilipTimothe/Porfolio_Planner_Backend.git
+ 1665  git push -u origin main
+ 1666  git add .
+ 1667  git commit -m "initial commit for seperation of backend from frontend"
+ 1668  git push
+ 1669  git init
+ 1670  git push -u origin main
+ 1671  git remote add origin https://github.com/PhilipTimothe/Porfolio_Planner_Backend.git
+ 1672  git remote add https://github.com/PhilipTimothe/Porfolio_Planner_Backend.git
+ 1673  git push
+ 1674  git add .
+ 1675  git commit -m "commit initial"
+ 1676  git push
+ 1677  git init
+ 1678  git remote add origin https://github.com/PhilipTimothe/Porfolio_Planner_Backend.git
+ 1679  git remote -v
+ 1680  git remote set-url add origin https://github.com/PhilipTimothe/Porfolio_Planner_Backend.git
+ 1681  git remote set-url origin https://github.com/PhilipTimothe/Porfolio_Planner_Backend.git
+ 1682  git push -u origin main
+ 1683  heroku create
+ 1684  git config --list | grep heroku
+ 1685  git push heroku master
+ 1686  git pull
+ 1687  git push heroku main
+ 1688  git push heroku master
+ 1689  git branch
+ 1690  ls
+ 1691  cd ..
+ 1692  ls
+ 1693  cd Portfolio_Planner_Backend
+ 1694  git branch -m main master
+ 1695  git fetch origin
+ 1696  git branch -u origin/master master
+ 1697  git push heroku master
+ 1698  git pull
+ 1699  git push heroku master
+ 1700  git branch -m master  main
+ 1701  git fetch origin
+ 1702  git branch -u origin/main main
+ 1703  git push heroku main
+ 1704  ruby -v
+ 1705  bundle update --ruby
+ 1706  git add Gemfile.lock
+ 1707  git commit -m "update ruby version"
+ 1708  git push heroku main
+ 1709  git push heroku main:main
+ 1710  bundle install
+ 1711  rails -v
+ 1712  brew install ruby
+ 1713  rails -v
+ 1714  rvm get stable --auto-dotfiles
+ 1715  ruby -v
+ 1716  bundle update --ruby
+ 1717  ruby -v
+ 1718  bundle update --ruby
+ 1719  ruby -v
+ 1720  bundle update --ruby
+ 1721  rvm install ruby --latest
+ 1722  ruby -v
+ 1723  bundle update --ruby
+ 1724  bundle install
+ 1725  rails c
+ 1726  gem pristine racc --version 1.5.2
+ 1727  rails c
+ 1728  git commit -m "initial commit for seperation of backend from frontend"ls
+ 1729  cd ..
+ 1730  ls
+ 1731  cd Portfolio_Planner_Backend
+ 1732  cd ..
+ 1733  rail new Portfolio_Planner_Backend --api -G -M
+ 1734  rails new Portfolio_Planner_Backend --api -G -M
+ 1735  cd Portfolio_Planner_Backend
+ 1736  code .
+ 1737  cd ..
+ 1738  cd Portfolio_Planner_Backend_Old
+ 1739  code .
+ 1740  rails g resource Company Name Symbol Industry Country
+ 1741  rails g resource Company Name Symbol Industry Country --force
+ 1742  rails db:migrate
+ 1743  bundle update --ruby
+ 1744  bundle install
+ 1745  bundle update --ruby
+ 1746  rails db:migrate
+ 1747  rails g resource Company Name Symbol Industry Country --force
+ 1748  rails g resources Company Name Symbol Industry Country --force
+ 1749  cd ..
+ 1750  ls
+ 1751  cd ..
+ 1752  ls
+ 1753  cd Desktop/FlatIron/Projects
+ 1754  rails new PortfolioPlanner_Backend --api -G -M
+ 1755  cd PortfolioPlanner_Backend
+ 1756  code 
+ 1757  code .
+ 1758  rails g resources Company Name Symbol Industry Country --force
+ 1759  rails g resource Company Name Symbol Industry Country
+ 1760  bundle update --ruby
+ 1761  ruby -v
+ 1762  rvm install ruby --latest
+ 1763  ruby -v
+ 1764  bundle update --ruby
+ 1765  gem pristine racc --version 1.5.2
+ 1766  rails db:migrate
+ 1767  rails db:seed
+ 1768  rails c
+ 1769  git init
+ 1770  git commit -m "initial commit"
+ 1771  git init
+ 1772  git remote add origin https://github.com/PhilipTimothe/Portfolio_Planner_Backend_Api.git
+ 1773  git branch -M main
+ 1774  git init
+ 1775  git branch -M main
+ 1776  git init
+ 1777  git remote set-url origin https://github.com/PhilipTimothe/Portfolio_Planner_Backend_Api.git
+ 1778  git branch -M main
+ 1779  git remote set-url origin https://github.com/PhilipTimothe/Portfolio_Planner_Backend_Api.gitgit push -u origin mainclear
+ 1780  clear
+ 1781  git push -u origin main
+ 1782  git init
+ 1783  git add .
+ 1784  git commit -m "initial "
+ 1785  git branch -M main
+ 1786  git push
+ 1787  heroku create
+ 1788  git config --list --local | grep heroku
+ 1789  bundle install
+ 1790  bundle update --ruby
+ 1791  ruby -v
+ 1792  bundle update --ruby
+ 1793  rvm install ruby --latest
+ 1794  ruby -v
+ 1795  bundle install
+ 1796  git add .
+ 1797  git commit -m
+ 1798  git commit -m "Version upgrade"
+ 1799  git push
+ 1800  git push heroku main
+ 1801  heroku run rake db:migrate
+ 1802  heroku ps:scale web=1
+ 1803  heroku ps
+ 1804  heroku open
+ 1805  rails generate controller welcome
+ 1806  rails s
+ 1807  rails routes
+ 1808  gem install bundler:2.2.3
+ 1809  rails routes
+ 1810  bundle install
+ 1811  ruby -v
+ 1812  bundle update --ruby
+ 1813  ruby -v
+ 1814  rvm install ruby 3.0.0
+ 1815  ruby -v
+ 1816  bundle update --ruby
+ 1817  ruby -v
+ 1818  bundle install
+ 1819  rails routes
+ 1820  bundle install
+ 1821  rails s
+ 1822  git push heroku main
+ 1823  heroku create
+ 1824  git push heroku main
+ 1825  git config --list --local | grep heroku
+ 1826  git push heroku main
+ 1827  git push heroku main -f
+ 1828  heroku restart
+ 1829  heroku help
+ 1830  heroku apps:destroy
+ 1831  heroku git
+ 1832  heroku create
+ 1833  git config --list --local | grep heroku
+ 1834  heroku git:remote
+ 1835  git init
+ 1836  heroku git:remote -a tranquil-escarpment-33998
+ 1837  git add .
+ 1838  git commit -am "make it better"
+ 1839  git push heroku main
+ 1840  gem install pg -- --with-pg-config=/usr/local/bin/pg_config
+ 1841  bundle install
+ 1842  rails db:migrate
+ 1843  cd ..
+ 1844  cd
+ 1845  ls 
+ 1846  sudo mkdir -p /etc/paths.d &&\necho /Applications/Postgres.app/Contents/Versions/latest/bin | sudo tee /etc/paths.d/postgresapp
+ 1847  /Applications/Postgres.app/Contents/Versions/13/bin/psql -p5433 "template1"
+ 1848  rake db:setup
+ 1849  psql -U postgres
+ 1850  sudo -u postgres psql
+ 1851  psql
+ 1852  sudo -u postgres psql
+ 1853  su - postgres
+ 1854  /var/lib/pgsql/9.3/data/pg_hba.conf
+ 1855  pg_hba.conf
+ 1856  sudo -u postgres psql
+ 1857  sudo /etc/postgresql/8.4/main/pg_hba.conf
+ 1858  sudo vim /etc/postgresql/8.4/main/pg_hba.conf
+ 1859  sudo vim /etc/postgresql/10/main/pg_hba.conf
+ 1860  /etc/postgresql/8.4/main/pg_hba.conf
+ 1861  sudo /etc/postgresql/8.4/main/pg_hba.conf
+ 1862  sudo vim pg_hba.conf
+ 1863  pg_hba.conf
+ 1864  sudo pg_hba.conf
+ 1865  psql
+ 1866  sudo vi /etc/postgresql/9.1/main/pg_hba.conf
+ 1867  sudo nano /etc/postgresql/9.1/main/pg_hba.conf
+ 1868  ls
+ 1869  /etc/postgresql/[major.minor]/main/pg_hba.conf
+ 1870  sudo /etc/postgresql/[major.minor]/main/pg_hba.conf
+ 1871  sudo vi /etc/postgresql/9.1/main/pg_hba.conf
+ 1872  sudo vim /etc/postgresql/9.1/main/pg_hba.conf
+ 1873  psql -t -P format=unaligned -c 'show hba_file';
+ 1874  psql -U postgres
+ 1875  ps aux | grep postgres
+ 1876  sudo su
+ 1877  locate pg_hba.conf
+ 1878  sudo su
+ 1879  sudo vi Library/PostgreSQL/13/data/pg_hba.conf
+ 1880  sudo nano Library/PostgreSQL/13/data/pg_hba.conf
+ 1881  sudo /Library/PostgreSQL/13/data/pg_hba.conf
+ 1882  sudo vim  /Library/PostgreSQL/13/data/pg_hba.conf
+ 1883  ps aux | grep postgres
+ 1884  psql -U postgres
+ 1885  sudo systemctl restart postgresql
+ 1886  sudo vim  sudo systemctl restart postgresql
+ 1887  sudo nano systemctl restart postgresql
+ 1888  sudo vim systemctl restart postgresql
+ 1889  rake db:setup
+ 1890  ruby -v
+ 1891  rake db:setup
+ 1892  pg_ctl reload
+ 1893  pg_ctl --help
+ 1894  pg_ctl reload
+ 1895  rake db:setup
+ 1896  bundle install
+ 1897  rake db:setup
+ 1898  git add .
+ 1899  git commit "Working towards getting postgresql to work"
+ 1900  git push
+ 1901  rake db:setup
+ 1902  export DATABASE_PASSWORD = p4017019
+ 1903  rake db:setup
+ 1904  git push heroku main
+ 1905  ruby -v
+ 1906  bundle install
+ 1907  git push heroku main
+ 1908  ls
+ 1909  git status
+ 1910  git add -A
+ 1911  git commit -m "code"
+ 1912  git push heroku main
+ 1913  heroku run rake db:migrate
+ 1914  heroku open
+ 1915  heroku run rake db:seed
+ 1916  npm start
+ 1917  npm run deploy
+ 1918  git add . 
+ 1919  git commit -m "Backend Url implementation from Heroku deployment"
+ 1920  git push
+ 1921  npm run deploy
+ 1922  bundle insatll
+ 1923  bundle install
+ 1924  npm install
+ 1925  npm audit fix
+ 1926  npm audit
+ 1927  npm install jquery@3.5.1 
+ 1928  git add .
+ 1929  git commit -m "reinstall npm and eliminating vulnerabilities"
+ 1930  git push
+ 1931  git init
+ 1932  git add .
+ 1933  git push
+ 1934  git pull
+ 1935  git push
+ 1936  git remote add origin https://github.com/PhilipTimothe/Portfolio_Planner.git
+ 1937  git push --help
+ 1938  git push -u origin main
+ 1939  git remote set-url origin https://github.com/PhilipTimothe/Portfolio_Planner.git
+ 1940  git push
+ 1941  git remote set-url origin https://github.com/PhilipTimothe/Portfolio_Planner.git
+ 1942  git remote -v
+ 1943  git add .
+ 1944  git commit -m "Issues pushing to git"
+ 1945  git push
+ 1946  git remote -v
+ 1947  git add .
+ 1948  git commit -m "recommit of original application"
+ 1949  git push
+ 1950  npm install
+ 1951  git add .
+ 1952  git commit -m "install npm"
+ 1953  git push
+ 1954  npm start
+ 1955  npm audit
+ 1956  npm install jquery@3.5.1
+ 1957  npm audit
+ 1958  npm update react-dev-utils --depth 2
+ 1959  git add .
+ 1960  git commit -m "vulnerablities fix"
+ 1961  git push
+ 1962  npm install --save gh-pages
+ 1963  git add .
+ 1964  git commit -m "reinstallation of gh-pages"
+ 1965  git push
+ 1966  npm run deploy
+ 1967  git add .
+ 1968  git commit -m "npm run deploy completed for gh-pages"
+ 1969  git push
+ 1970  npm run deploy
+ 1971  npm install gh-pages --save -dev
+ 1972  npm install gh-pages --save --only=dev
+ 1973  npm install popper.js@^1.16.1
+ 1974  popper.js@^1.16.1
+ 1975  npm install popper.js --save
+ 1976  npm uninstall popper.js && npm i @popperjs/core
+ 1977  npm install popper.js --save
+ 1978  npm install -g typescript
+ 1979  /usr/local/lib/node_modules
+ 1980  npm install -g typescript
+ 1981  npm run deploy
+ 1982  npm install -g serve\nserve -s build
+ 1983  sudo chown -R $USER /usr/local/lib/node_modules
+ 1984  npm install -g serve\nserve -s build
+ 1985  npm install -g typescript
+ 1986  npm audit
+ 1987  npm start
+ 1988  npm run deploy
+ 1989  ls
+ 1990  cd 
+ 1991  ls
+ 1992  cd Desktop/FlatIron/Projects
+ 1993  ls
+ 1994  create-react-app PortfolioPlanner
+ 1995  npx create-react-app Portfolio_Planner_Clientside
+ 1996  npm uninstall -g create-react-app
+ 1997  npx create-react-app Portfolio_Planner_Client
+ 1998  npx create-react-app portfolio_planner_client
+ 1999  cd portfolio_planner_client
+ 2000  code .
+ 2001  npm install gh-pages --save -dev
+ 2002  npm uninstall gh-pages --save -dev
+ 2003  npm install gh-pages --save --only=dev
+ 2004  npm install -g typescript
+ 2005  npm install react-router-dom
+ 2006  npm install redux react-redux
+ 2007  npm install -g typescript
+ 2008  npm install --save redux-thunk
+ 2009  npm i typescript@3.7.0-beta
+ 2010  npm install react-bootstrap bootstrap
+ 2011  npm install popper.js@^1.16.1
+ 2012  npm i @popperjs/core 
+ 2013  npm i jquery@1.9.1 --save
+ 2014  npm uninstall popper.js && npm i @popperjs/core
+ 2015  npm i popper.js@^1.16.1
+ 2016  npm uninstall popper.js 
+ 2017  npm audit
+ 2018  npm install jquery@3.5.1 
+ 2019  npm install popper.js 
+ 2020  npm install chart.js --save
+ 2021  npm start
+ 2022  git remote add origin https://github.com/PhilipTimothe/portfolio_planner_client.git
+ 2023  git branch -M main
+ 2024  git push -u origin main
+ 2025  git add .
+ 2026  git commit "initial commit"
+ 2027  git commit -m "initial commit"
+ 2028  git push
+ 2029  npm run deploy
+ 2030  npm install redux-logger
+ 2031  npm start
+ 2032  npm install --save react-chartjs-2 chart.js
+ 2033  npm start
+ 2034  git add .
+ 2035  git commit "imported original application data"
+ 2036  git commit -m "imported original application data"
+ 2037  git push
+ 2038  npm run deploy
+ 2039  npm install --save redux-thunk
+ 2040  npm run deploy
+ 2041  git add . 
+ 2042  git commit -m "migrated all project data into this new react in order to get demo working. Debugged the issue now Demo is a success."
+ 2043  git push
+ 2044  cd Desktop/FlatIron/Labs
+ 2045  ls
+ 2046  mkdir Node
+ 2047  ls
+ 2048  cd Node
+ 2049  mkdir Node_Basics
+ 2050  cd Node_Basics
+ 2051  ls
+ 2052  git clone https://github.com/PhilipTimothe/node-install-lab-g-416.git
+ 2053  ls
+ 2054  cd node-install-lab-g-416
+ 2055  code .
+ 2056  learn
+ 2057  node -v
+ 2058  npm install -g n
+ 2059  n 5.1
+ 2060  n 5.1.0
+ 2061  sudo n 5.1.0
+ 2062  learn
+ 2063  node -v
+ 2064  n --help
+ 2065  npm test
+ 2066  learn submit
+ 2067  ls
+ 2068  cd ..
+ 2069  ls
+ 2070  cd node-install-lab-g-416
+ 2071  npm test
+ 2072  exit
+ 2073  curl https://npmjs.org/install.sh | sh
+ 2074  npm install express
+ 2075  exit
+ 2076  learn
+ 2077  ls
+ 2078  git add .
+ 2079  git commit -m "learn submit"
+ 2080  git push
+ 2081  learn
+ 2082  submit
+ 2083  learn
+ 2084  npm install
+ 2085  npm -v
+ 2086  npm test
+ 2087  npm test submit
+ 2088  leran
+ 2089  learn
+ 2090  bundle install
+ 2091  bundle
+ 2092  node install
+ 2093  brew install node
+ 2094  node -v
+ 2095  learn
+ 2096  learn submit
+ 2097  cd ..
+ 2098  learn submit
+ 2099  cd node-install-lab-g-416
+ 2100  ls
+ 2101  cd test
+ 2102  learn 
+ 2103  learn submit
+ 2104  cd ..
+ 2105  ls
+ 2106  learn submit
+ 2107  git init
+ 2108  learn submit
+ 2109  cd node_modules
+ 2110  learn submit
+ 2111  ls
+ 2112  cd ..
+ 2113  cd Desktop/FlatIron/Labs/Node
+ 2114  ls
+ 2115  cd Node_Basics
+ 2116  git clone https://github.com/PhilipTimothe/node-install-lab-g-416.git
+ 2117  cd node-install-lab-g-416
+ 2118  code .
+ 2119  learn
+ 2120  n 12.0.0
+ 2121  npm test
+ 2122  node test
+ 2123  cd node_modules
+ 2124  learn
+ 2125  learn open
+ 2126  cd ..
+ 2127  ls
+ 2128  git clone https://github.com/PhilipTimothe/node-install-lab-g-416.git
+ 2129  cd node-install-lab-g-416
+ 2130  code .
+ 2131  learn
+ 2132  node -v
+ 2133  learn
+ 2134  npm -v
+ 2135  learn
+ 2136  learn submit
+ 2137  learn
+ 2138  learn submit
+ 2139  learn
+ 2140  code .
+ 2141  learn
+ 2142  learn submit
+ 2143  learn open
+ 2144  cd ..
+ 2145  cd.
+ 2146  cd
+ 2147  cd Desktop/FlatIron/Labs/Node/Node_Basics
+ 2148  git clonehttps://github.com/PhilipTimothe/node-install-lab-g-416.git
+ 2149  git clone https://github.com/PhilipTimothe/node-install-lab-g-416.git
+ 2150  cd node-install-lab-g-416
+ 2151  code .
+ 2152  learn
+ 2153  learn submit
+ 2154  learn
+ 2155  learn submit
+ 2156  learn save
+ 2157  cd ..
+ 2158  ls
+ 2159  git clone git@github.com:learn-co-students/node-install-lab-g-416.git
+ 2160  cd node-install-lab-g-416
+ 2161  code .
+ 2162  git clone
+ 2163  code .
+ 2164  learn submit
+ 2165  learn
+ 2166  learn submit
+ 2167  cd ..
+ 2168  cd
+ 2169  cd Desktop/FlatIron/Labs/Node/Node_Basics
+ 2170  git clone https://github.com/PhilipTimothe/node-install-lab-g-416.git
+ 2171  cd node-install-lab-g-416
+ 2172  code .
+ 2173  learn submit
+ 2174  code .
+ 2175  cd ..
+ 2176  git clone https://github.com/PhilipTimothe/node-install-lab-g-416.git
+ 2177  cd node-install-lab-g-416
+ 2178  code .
+ 2179  learn submit
+ 2180  learn
+ 2181  learn submit
+ 2182  node
+ 2183  clear
+ 2184  ls
+ 2185  cd ll
+ 2186  cd ..
+ 2187  ls
+ 2188  cd ..
+ 2189  ls
+ 2190  cd .
+ 2191  cd ..
+ 2192  ls
+ 2193  cd Swift
+ 2194  ls
+ 2195  cd Desktop
+ 2196  cd FlatIron/
+ 2197  ls
+ 2198  cd ..
+ 2199  ls
+ 2200  cd Swift
+ 2201  ls
+ 2202  cd Prework
+ 2203  ls
+ 2204  git clone https://github.com/PhilipTimothe/swift-HelloToTheUniverse-lab-swift-intro-000.git
+ 2205  ls
+ 2206  cd swift-HelloToTheUniverse-lab-swift-intro-000
+ 2207  open HelloToTheUniverse.xcodeproj
+ 2208  ls
+ 2209  cd ..
+ 2210  ls
+ 2211  cd Desktop
+ 2212  ls
+ 2213  cd Swift
+ 2214  ls
+ 2215  cd OnlineSwift
+ 2216  ls
+ 2217  mkdir ps1
+ 2218  ls
+ 2219  cd ps1
+ 2220  git clone https://github.com/PhilipTimothe/video-ps1-materials.git
+ 2221  ls
+ 2222  cd video-ps1-materials
+ 2223  ls
+ 2224  cd night_out_api
+ 2225  npm start
+ 2226  ls
+ 2227  rails s
+ 2228  cd night_out_clear
+ 2229  clear
+ 2230  rails s
+ 2231  ls
+ 2232  cd night_out_api
+ 2233  ls
+ 2234  rails s
+ 2235  ls
+ 2236  cd night_out_api
+ 2237  rails s
+ 2238  ls
+ 2239  cd ..
+ 2240  ls
+ 2241  cd ..
+ 2242  ls
+ 2243  git clone https://github.com/PhilipTimothe/video-ps2-materials.git
+ 2244  ls
+ 2245  cd video
+ 2246  cd video-ps2-materials
+ 2247  open
+ 2248  cd Desktop/FlatIron
+ 2249  s
+ 2250  ls
+ 2251  cd
+ 2252  cd Desktop/
+ 2253  l
+ 2254  ls
+ 2255  mkdir Javascript
+ 2256  s
+ 2257  ls
+ 2258  cd Javascript
+ 2259  mkdir Contact_List
+ 2260  ls
+ 2261  cd Contact_List
+ 2262  code .
+ 2263  ls
+ 2264  mkdir src
+ 2265  cd src
+ 2266  touch index.html
+ 2267  touch index.css
+ 2268  touch index.js
+ 2269  mkdir components
+ 2270  ls
+ 2271  cd ..
+ 2272  ls
+ 2273  npm install bootstrap@3
+ 2274  git init
+ 2275  git add README.md
+ 2276  git commit -m "first commit"
+ 2277  git branch -M main
+ 2278  git remote add origin https://github.com/PhilipTimothe/Contact_List.git
+ 2279  git branch -M main
+ 2280  git init
+ 2281  git branch -M main
+ 2282  git remote add origin https://github.com/PhilipTimothe/Contact_List.git
+ 2283  git push -u origin main
+ 2284  git commit -m "first commit"
+ 2285  git push -u origin master
+ 2286  echo "# Contact_List" >> README.md
+ 2287  git init
+ 2288  git add README.md
+ 2289  git commit -m "first commit"
+ 2290  git branch -M main
+ 2291  git remote add origin https://github.com/PhilipTimothe/Contact_List.git
+ 2292  git push -u origin main
+ 2293  clear
+ 2294  git add. 
+ 2295  git add
+ 2296  git add .
+ 2297  git commit m "Working on simple layout of contact list.  Currently table is hard coded to html.  Next step is to create dynamic functionality instead of hard code."
+ 2298  git commit -m "Working on simple layout of contact list.  Currently table is hard coded to html.  Next step is to create dynamic functionality instead of hard code."
+ 2299  git push
+ 2300  git add .
+ 2301  git commit -m "Implementation of dynamic creation of table at the moment page is loaded"
+ 2302  git push
+ 2303  clear
+ 2304  git add .
+ 2305  git commit -m "Implementation of dynamic row creation"
+ 2306  git push
+ 2307  clear
+ 2308  git add .
+ 2309  git commit -m "Success in adding dynamic row creation"
+ 2310  git push
+ 2311  git add .
+ 2312  git commit -m "Success in adding dynamic row creation"
+ 2313  git push
+ 2314  clear
+ 2315  python3 --version
+ 2316  ls
+ 2317  cd Desktop/Python
+ 2318  ls
+ 2319  cd Ex_Files_Learning_Python_Upd
+ 2320  ls
+ 2321  cd Exercise\ Files
+ 2322  ls
+ 2323  cd Ch2
+ 2324  ls
+ 2325  python3 helloworld_finished.py
+ 2326  cd ..
+ 2327  ls
+ 2328  code .
+ 2329  cd "/Users/Philip/Desktop/Python/Ex_Files_Learning_Python_Upd/Exercise Files/Ch2"
+ 2330  /usr/local/bin/python3 "/Users/Philip/Desktop/Python/Ex_Files_Learning_Python_Upd/Exercise Files/Ch2/helloworld_finished.py"
+ 2331  ls
+ 2332  cd ..
+ 2333  ls
+ 2334  cd ..
+ 2335  ls
+ 2336  cd Python_Essential_Training
+ 2337  ls
+ 2338  cd Ex_Files_Python_EssT
+ 2339  ls
+ 2340  cd Exercise\ Files
+ 2341  ls
+ 2342  code .
+ 2343  cd "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap02"
+ 2344  /usr/local/opt/python@3.9/bin/python3.9 "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap02/blocks.py"
+ 2345  cd "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap02"
+ 2346  /usr/local/opt/python@3.9/bin/python3.9 "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap02/blocks.py"
+ 2347  cd "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap03"
+ 2348  /usr/local/opt/python@3.9/bin/python3.9 "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap03/types.py"
+ 2349  cear
+ 2350  clear
+ 2351  cd "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap03"
+ 2352  /usr/local/opt/python@3.9/bin/python3.9 "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap03/types.py"
+ 2353  git add .
+ 2354  git commit -n
+ 2355  git add .
+ 2356  git commit -n "Implementation of search bar.  More work to continue"
+ 2357  git commit -m "Early stage search bar implmentation"
+ 2358  git push
+ 2359  clear
+ 2360  git add .
+ 2361  git commit -m "Sort functionality in early stages"
+ 2362  git push
+ 2363  cd "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap05"
+ 2364  /usr/local/opt/python@3.9/bin/python3.9 "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap05/bitwise.py"
+ 2365  cd "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap05"
+ 2366  /usr/local/opt/python@3.9/bin/python3.9 "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap05/bitwise.py"
+ 2367  cd "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap06"
+ 2368  /usr/local/opt/python@3.9/bin/python3.9 "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/Chap06/while.py"
+ 2369  git add .
+ 2370  git commmit -m "Reimplemented sort and search form and button creation in index.js."
+ 2371  git commmit -n "Reimplemented sort and search form and button creation in index.js."
+ 2372  git commit -m "Reimplemented sort and search form and button creation in index.js."
+ 2373  git push
+ 2374  clear
+ 2375  git add .
+ 2376  git commit -m "Refactored to have table rows created when each object in the array is iterated"
+ 2377  git push
+ 2378  ls
+ 2379  cd ..
+ 2380  l
+ 2381  ls
+ 2382  touch inputEX.py
+ 2383  /usr/local/opt/python@3.9/bin/python3.9 "/Users/Philip/Desktop/Python/Python_Essential_Training/Ex_Files_Python_EssT/Exercise Files/inputEX.py"
+ 2384  git add .
+ 2385  git commit -m "Sort functionality second stage.  Need to figure out a way to render row information without rendering duplicate rows"
+ 2386  git push
+ 2387  git add .
+ 2388  git commit -m "Organizational commit"
+ 2389  git push
+ 2390  clear
+ 2391  git add .
+ 2392  git commit -m "Last name sort functionality completed.  Next in line is to add an extra layer of sort for emails."
+ 2393  git push
+ 2394  git add .
+ 2395  git commit -m "Addition of two more objects to the contacts array."
+ 2396  git push
+ 2397  clear
+ 2398  git add .
+ 2399  git commit -m "Clean up."
+ 2400  git push
+ 2401  ls
+ 2402  cd condense.js
+ 2403  condese.js
+ 2404  git add.
+ 2405  git add 
+ 2406  git add .
+ 2407  git commit "First stage of search functionality.  Creation of event listener that listens for a submit in the form box, which then grabs the event value and console logs it.  Next step is to elaborate on the search functionality."
+ 2408  git commit -m "First stage of search functionality.  Creation of event listener that listens for a submit in the form box, which then grabs the event value and console logs it.  Next step is to elaborate on the search functionality."
+ 2409  git push
+ 2410  clear
+ 2411  git add .
+ 2412  git commit -m "Working toward edgecase for allowing return 'No Contacts' if there aren't any contacts for user input in the search box."
+ 2413  git push
+ 2414  git add . 
+ 2415  git commit -m "Working on the search functionality for the contact list.  Currently the search functionality allows for inclusion of all inputs but not ordered inputs.  How can it choose contacts in order of spelling and not just base inclusion?"
+ 2416  git push
+ 2417  git add .
+ 2418  git commit -m "Rearrange main div node to the center of page.  Working toward giving contact list project a modern feel with modern esthetics.  Next is the continuation of search result precision."
+ 2419  git push
+ 2420  clear
+ 2421  git add .
+ 2422  git commit -m "Working on search bug, can't seem to get the inner HTML of the td nodes.  Doing research to figure out a solution."
+ 2423  git push
+ 2424  git add .
+ 2425  git commit -m "Rewritten index to support a ul instead of a table allowing for more flexability in manipulating node data.  Also, completed search functionality allowing for contacts to be searched for either first name or last name.  When a contact the input matches no viable contact object a 'no contact' node is displayed."
+ 2426  git push
+ 2427  clear
+ 2428  git add .
+ 2429  git commit -m "Established a more cohesive psuedocode explanation per methodology.  Slight clean up for more readability."
+ 2430  git push
+ 2431  clear
+ 2432  git add .
+ 2433  git commit -m "Early stages of data structural implementation.  Migration of main code logic into a component js file that is class structured.  Continuation of structural changes along with more complex ideas such as an add contact event and logic."
+ 2434  git push
+ 2435  clear
+ 2436  git add .
+ 2437  git commit -m "Beginning of implementation of contact overview information by way of listner event, which will then render an node containing all relative contact object data."
+ 2438  git push
+ 2439  clear
+ 2440  bootstrap.bundle.min.js
+ 2441  git add .
+ 2442  git commit -m "Continual implementation of Contact Overview class.  Successfully rendering object data into a node in html."
+ 2443  git push
+ 2444  git add .
+ 2445  git commit -m "Successful implementation of contact overview."
+ 2446  git push
+ 2447  git add .
+ 2448  git commit -m "More work on bugs. "
+ 2449  git push
+ 2450  npm install bootstrap
+ 2451  npm install -g npm
+ 2452  npm install bootstrap@5.0.2-alpha.6 --save
+ 2453  npm install bootstrap@5.0.0-alpha.6 --save
+ 2454  npm install bootstrap@4.0.0-alpha.6 --save
+ 2455  npm install bootstrap-alpha.6 --save
+ 2456  npm install bootstrap --save
+ 2457  git add .
+ 2458  git commit -m "Reorganizing boostrap elements.  Clearing up earlier bugs that incorporated boostrap."
+ 2459  git push
+ 2460  clear
+ 2461  git add .
+ 2462  git commit -m "reorganization of boostrap implementation complete.  Moving forward with add contact implementation."
+ 2463  git push
+ 2464  ls
+ 2465  cd Desktop
+ 2466  ls
+ 2467  mkdir Twitter Emoji
+ 2468  ls
+ 2469  cd Twitter
+ 2470  ls
+ 2471  git clone https://github.com/PhilipTimothe/twemoji.git
+ 2472  git add .
+ 2473  git commit -m "Connected contact main card with add contact form.  Application can now traverse to form and back to main contact card."
+ 2474  git push
+ 2475  clear
+ 2476  git add .
+ 2477  git commit -m "Continual work progress on add contact form.  Removed cancel button and implemented a p tag that will work as a button without submissions on every click."
+ 2478  git push
+ 2479  git add .
+ 2480  git commit -m "Validation for add form implemented.  Moving onto next phase, which is actually submission of form and retention of inputed data."
+ 2481  git push
+ 2482  git add .
+ 2483  git commit -m "Implemented state selection and input submission on add contact form, which now will create an object.  Continual progress, band will continue towards full completion."
+ 2484  git push
+ 2485  git add . 
+ 2486  git commit -m "Working on pushing new object data to existing conact array."
+ 2487  git push
+ 2488  clear
+ 2489  npm install uuid
+ 2490  git add .
+ 2491  git commit -m "Successful implementation of add contact form submission.  Future implementation ideas on stricter validations are on going."
+ 2492  git push
+ 2493  git add .
+ 2494  git commit -m "Continuation of validation implementation on add contact form."
+ 2495  git push
+ 2496  npm i country-state-city
+ 2497  node -v
+ 2498  npm -v
+ 2499  bundle install
+ 2500  clear
+ 2501  npm install -g browserify\n
+ 2502  browserify index.js -o bundle.js
+ 2503  browserify src/index.js -o bundle.js
+ 2504  git add .
+ 2505  git commit -m "Attempted to use npm packages but for this project it seems uneccessary. Revereted back to simple structure."
+ 2506  git push
+ 2507  git add .
+ 2508  git commit -m "Work up of readme file.  Beginning stages."
+ 2509  git push
+ 2510  git add .
+ 2511  git commit -m "Work up of readme file.  Beginning stages."
+ 2512  git add .
+ 2513  git commit -m "Work up of readme file.  Beginning stages."
+ 2514  git push
+ 2515  git add .
+ 2516  git commit -m "Work up of readme file.  Beginning stages."
+ 2517  git push
+ 2518  cd Desktop
+ 2519  ls
+ 2520  cd Code
+ 2521  ls
+ 2522  cd Javascript
+ 2523  ls
+ 2524  git clone https://github.com/PhilipTimothe/Contact_List.git
+ 2525  git add .
+ 2526  ls
+ 2527  cd ..
+ 2528  ls
+ 2529  cd Contact_List
+ 2530  ls
+ 2531  git add .
+ 2532  git commit -m "Work up of readme file.  Beginning stages."
+ 2533  git push
+ 2534  git add .
+ 2535  git commit -m "Work up of readme file.  Beginning stages."
+ 2536  git push
+ 2537  git add .
+ 2538  git commit -m "WAdjusting readme content."
+ 2539  git push
+ 2540  git add .
+ 2541  git commit -m "WAdjusting readme content."
+ 2542  git push
+ 2543  git add .
+ 2544  git commit -m "Adjusting readme content."
+ 2545  git push
+ 2546  git add .
+ 2547  git commit -m "Adjusting readme content."
+ 2548  git push
+ 2549  git add .
+ 2550  git commit -m "Adjusting readme content."
+ 2551  git push
+ 2552  git add .
+ 2553  git commit -m "Adjusting readme content."
+ 2554  git push
+ 2555  git add .
+ 2556  git commit -m "License added."
+ 2557  git push
+ 2558  git add .
+ 2559  git commit -m "Reworking code so it can be viewed and scaled properly on mobile devices."
+ 2560  git push
+ 2561  git add .
+ 2562  git commit -m "Continuing of implementation of changes to code so application responsiveness become effective."
+ 2563  git push
+ 2564  git add .
+ 2565  git commit -m "Pushing through code exchanges to better implement more application responsiveness."
+ 2566  git push
+ 2567  git add .
+ 2568  git commit -m "Pushing through code exchanges to better implement more application responsiveness."
+ 2569  git push
+ 2570  git add .
+ 2571  git commit -m "Changes made, but unsuccessful in having div objects resize to fit mobile screens."
+ 2572  git push
+ 2573  git add .
+ 2574  git commit -m "Addition of readme details."
+ 2575  git push
+ 2576  git add .
+ 2577  git commit -m "Addition of readme details."
+ 2578  git push
+ 2579  git add .
+ 2580  git commit -m "Addition of readme details."
+ 2581  git push
+ 2582  git add .
+ 2583  git commit -m "Addition of readme details."
+ 2584  git push
+ 2585  clear
+ 2586  git add .
+ 2587  git commit -m "Addition of readme details."
+ 2588  git push
+ 2589  git add .
+ 2590  git commit -m "Addition of readme details."
+ 2591  git push
+ 2592  git add .
+ 2593  git commit -m "Slight adjustments in code -CSS file-"
+ 2594  git push
+ 2595  git add .
+ 2596  git commit -m "Copyright placement in app."
+ 2597  git push
+ 2598  ls
+ 2599  cd Desktop/code
+ 2600  ls
+ 2601  cd Python
+ 2602  ls
+ 2603  git clone https://github.com/PhilipTimothe/Contact_List_Python.git
+ 2604  cd Contact_List_Python
+ 2605  ks
+ 2606  ls
+ 2607  code .
+ 2608  git add .
+ 2609  git commit -m "Beginning attempt to implement python OOP"
+ 2610  git push
+ 2611  ls
+ 2612  cd Desktop
+ 2613  ls
+ 2614  cd Code
+ 2615  ls
+ 2616  cd Javascript
+ 2617  ls
+ 2618  cd Contact_List
+ 2619  code .
+ 2620  cd ..
+ 2621  ls
+ 2622  cd
+ 2623  ls
+ 2624  cd Desktop/Code/Javascript
+ 2625  ls
+ 2626  git clone https://github.com/PhilipTimothe/Contact_List.git
+ 2627  cd Contact_List
+ 2628  code .
+ 2629  git add .
+ 2630  cd ..
+ 2631  cd
+ 2632  cd Desktop/Code/Javascript
+ 2633  ls
+ 2634  git clone https://github.com/PhilipTimothe/Contact_List.git
+ 2635  cd Contact_List
+ 2636  code .
+ 2637  git add .
+ 2638  git commit -m "Storing jpg data in project instead of using an http src."
+ 2639  git push
+ 2640  node index.js
+ 2641  clear
+ 2642  git add .
+ 2643  git commit -m "push"
+ 2644  git push
+ 2645  npm -v
+ 2646  node -v
+ 2647  ls
+ 2648  cd Desktop
+ 2649  LS
+ 2650  cd byteboard-tester
+ 2651  code .
+ 2652  npm install
+ 2653  npm start
+ 2654  clear
+ 2655  cd ..
+ 2656  ls
+ 2657  cd byteboard-interview
+ 2658  code .
+ 2659  npm install
+ 2660  npm start
+ 2661  npm run zip
+ 2662  ls
+ 2663  cd Desktop
+ 2664  ls
+ 2665  cd Code
+ 2666  ls
+ 2667  mkdir Leetcode
+ 2668  cd Leetcode
+ 2669  echo "# Leet_Codes" >> README.md
+ 2670  git init
+ 2671  git add README.md
+ 2672  git commit -m "first commit"
+ 2673  git branch -M main
+ 2674  git remote add origin https://github.com/PhilipTimothe/Leet_Codes.git
+ 2675  git push -u origin main
+ 2676  ls
+ 2677  code .
+ 2678  git add .
+ 2679  git commit -m "merge two singly lists"
+ 2680  git push
+ 2681  git add .
+ 2682  git commit -m "merge two singly lists"
+ 2683  git push
+ 2684  git add.
+ 2685  git add .
+ 2686  git commit -m (Binary Search Algorithm)
+ 2687  git commit -m 'Binary Search Algorithm'
+ 2688  git push
+ 2689  git add .
+ 2690  git commit -m 'Binary Search Algorithm'
+ 2691  git push
+ 2692  git add .
+ 2693  git commit -m 'Bubble Sort Algorithm'
+ 2694  git push
+ 2695  git add .
+ 2696  git commit -m 'Merge & Insertion Sort Algorithm'
+ 2697  git push
+ 2698  git add .
+ 2699  git commit -m "Needle in Haystack"
+ 2700  git push
+ 2701  git add .
+ 2702  git commit -m "Binary Search code fix"
+ 2703  git push
+ 2704  git add .
+ 2705  git commit -m "Max sub array function"
+ 2706  git push
+ 2707  git add .
+ 2708  git commit -m "Length of the last word"
+ 2709  git push
+ 2710  ls
+ 2711  cd Desktop
+ 2712  ls
+ 2713  cd Code
+ 2714  ls
+ 2715  mkdir SplashThat
+ 2716  ls
+ 2717  cd SplashThat
+ 2718  git clone https://github.com/PhilipTimothe/frontend-take-home-org-enablement.git
+ 2719  ls
+ 2720  cd frontend-take-home-org-enablement
+ 2721  code .
+ 2722  yarn install
+ 2723  yarn run start
+ 2724  git add .
+ 2725  git commit -m "component creation."
+ 2726  git push
+ 2727  npm install react-bootstrap@next bootstrap@5.1.0
+ 2728  git add .
+ 2729  git commit -m "Putting data on the landing page"
+ 2730  git push
+ 2731  git add .
+ 2732  git commit -m "Completion of MVP"
+ 2733  git push
+ 2734  yarn run start
+ 2735  cd Desktop
+ 2736  ls
+ 2737  cd Code
+ 2738  ls
+ 2739  mkdir React
+ 2740  ls
+ 2741  cd React
+ 2742  ls
+ 2743  mkdir Spacestagram
+ 2744  cd Spacestagram
+ 2745  cd ..
+ 2746  ls
+ 2747  npx create-react-app Spacestagram
+ 2748  npx create-react-app spacestagram
+ 2749  ls
+ 2750  git clone https://github.com/PhilipTimothe/Spacestagram.git
+ 2751  ls
+ 2752  https://github.com/PhilipTimothe/ShopifyChallenge.git
+ 2753  git clone https://github.com/PhilipTimothe/ShopifyChallenge.git
+ 2754  cd ShopifyChallenge
+ 2755  npx create-react-app spacestagram
+ 2756  cd spacestagram
+ 2757  code .
+ 2758  git add .
+ 2759  git commit -m "First Push with React App"
+ 2760  git push
+ 2761  npm start
+ 2762  npm install react-bootstrap@next bootstrap@5.1.0
+ 2763  npm install dotenv
+ 2764  ls
+ 2765  cd
+ 2766  cd Desktop
+ 2767  cd Code/React/ShopifyChallenge
+ 2768  ls
+ 2769  npx create-react-app spacestagram
+ 2770  ls
+ 2771  cd spacestagram
+ 2772  code .
+ 2773  ls
+ 2774  code .
+ 2775  cd ..
+ 2776  ls
+ 2777  code .
+ 2778  ls
+ 2779  cd spacestagram
+ 2780  code .
+ 2781  bundle
+ 2782  yarn start
+ 2783  git add .
+ 2784  git commit -m "reinstalled react"
+ 2785  git push
+ 2786  git add .
+ 2787  git commit -m "Mounted fetch for initial object data"
+ 2788  git push
+ 2789  npm install react-bootstrap@next bootstrap@5.1.0\n
+ 2790  yarn add dotenv
+ 2791  npm install react-icons --save
+ 2792  yarn install react-icons --save
+ 2793  yarn add react-icons
+ 2794  npm i bootstrap-icons
+ 2795  git add .
+ 2796  git commit -m "heart icon, implementation"
+ 2797  git push
+ 2798  bundle install
+ 2799  yarn install
+ 2800  git add .
+ 2801  git commit -m "Implementing next layers; Explore button, Like button, etc"
+ 2802  git push
+ 2803  yarn start
+ 2804  git add . 
+ 2805  git commit -m "Heart toggle functionality compolete, Implmenting modal for added photo detail."
+ 2806  git push
+ 2807  yarn start
+ 2808  git add .
+ 2809  git commit -m "Completion of modal and current date for landing page set up"
+ 2810  git push
+ 2811  npm install gh-pages --save-dev\n\n
+ 2812  git add .
+ 2813  git commit -m "doing stuff"
+ 2814  git push
+ 2815  git pull
+ 2816  git add .
+ 2817  git commit -m "doing stuff"
+ 2818  git push
+ 2819  npm run deploy
+ 2820  cd .
+ 2821  cd ..
+ 2822  ls
+ 2823  desktop
+ 2824  ls
+ 2825  cd Code
+ 2826  ls
+ 2827  cd React
+ 2828  ls
+ 2829  git clone https://github.com/PhilipTimothe/Spacestagram.git
+ 2830  ls
+ 2831  cd Spacestagram
+ 2832  code .
+ 2833  git add .
+ 2834  git commit -m "stuff"
+ 2835  git push
+ 2836  npm run deploy
+ 2837  npm install gh-pages --save-dev
+ 2838  npm run deploy
+ 2839  yarn build
+ 2840  yarn start
+ 2841  git add .
+ 2842  git commit -m "debug setState implementation for toggle function"
+ 2843  git push
+ 2844  yarn start
+ 2845  git add .
+ 2846  git commit -m "Break through debuging, - like functionality complete."
+ 2847  git push
+ 2848  yarn start
+ 2849  git add .
+ 2850  git commit -m "Slight fix"
+ 2851  git push
+ 2852  yarn start
+ 2853  git add .
+ 2854  git commit -m "css manipulations"
+ 2855  git push
+ 2856  npm install gh-pages — save-dev
+ 2857  npm install gh-pages --save-dev
+ 2858  bundle install
+ 2859  npm install
+ 2860  git add .
+ 2861  git commit -m "gh pages stuff"
+ 2862  git push
+ 2863  npm run deploy
+ 2864  yarn build
+ 2865  npm run build 
+ 2866  npm run deploy
+ 2867  git add .
+ 2868  git commit -m
+ 2869  git commit -m "Code clean up"
+ 2870  git push
+ 2871  git add .
+ 2872  git commit -m "Clean up"
+ 2873  git push
+ 2874  git add .
+ 2875  git commit -m "Linear Search Algorithm"
+ 2876  git push
+ 2877  git add .
+ 2878  git commit -m "Naive Search Algorithm"
+ 2879  git push
+ 2880  git add .
+ 2881  git commit -m "Quick Sort Algorithm"
+ 2882  git push
+ 2883  git add .
+ 2884  git commit -m "Singly Linked List"
+ 2885  git push
+ 2886  ls
+ 2887  cd DataStructures
+ 2888  ls
+ 2889  cd SinglyLinkedList
+ 2890  ls
+ 2891  touch pop.js
+ 2892  touch shift.js
+ 2893  git add .
+ 2894  git commit -m "Singly Linked List"
+ 2895  git push
+ 2896  ls
+ 2897  cd ..
+ 2898  ls
+ 2899  git add .
+ 2900  git commit -m "Singly Linked List"
+ 2901  git push
+ 2902  git add .
+ 2903  git commit -m "unshift singly linked list"
+ 2904  git push
+ 2905  node -v
+ 2906  ls
+ 2907  cd ..
+ 2908  ls
+ 2909  cd Philip
+ 2910  ls
+ 2911  cd Library
+ 2912  ls
+ 2913  cd Application Support
+ 2914  cd Application\ Support
+ 2915  ls
+ 2916  cd Bitcoin
+ 2917  ls
+ 2918  code .
+ 2919  cd ..
+ 2920  cd
+ 2921  ls
+ 2922  cd des
+ 2923  cd Desktop
+ 2924  ls
+ 2925  cd Code/Blockchain
+ 2926  ls
+ 2927  cd project_1_v2_boilerplate
+ 2928  code .
+ 2929  cd ..
+ 2930  ls
+ 2931  cd Private_Blockchain
+ 2932  cd ..
+ 2933  cd Private_Blockchain
+ 2934  code .
+ 2935  git remote add origin https://github.com/PhilipTimothe/Private_Blockchain.git
+ 2936  git init
+ 2937  git commit -m "first commit"
+ 2938  git branch -M main
+ 2939  git remote add origin https://github.com/PhilipTimothe/Private_Blockchain.git
+ 2940  git branch -M main
+ 2941  git push -u origin main
+ 2942  git push -u origin master
+ 2943  git init
+ 2944  git commit -m "first commit"
+ 2945  git branch -M main
+ 2946  cd ..
+ 2947  ls
+ 2948  git init
+ 2949  touch Private_Blockchain
+ 2950  ls
+ 2951  touch Private_Blockchain
+ 2952  ls
+ 2953  mkdir Private_Blockchain
+ 2954  cd Private_Blockchain
+ 2955  git init
+ 2956  git commit -m "first commit"
+ 2957  git branch -M main
+ 2958  git add .
+ 2959  git remote add origin https://github.com/PhilipTimothe/Private_Blockchain.git
+ 2960  git add .
+ 2961  clear
+ 2962  git init
+ 2963  git remote add origin https://github.com/PhilipTimothe/Private_Blockchain.git
+ 2964  git add .
+ 2965  git commit -m "first commit"
+ 2966  git branch -M main
+ 2967  git push -u origin main
+ 2968  ls
+ 2969  code .
+ 2970  npm install
+ 2971  node app.js
+ 2972  node -v
+ 2973  npm install
+ 2974  node use 12
+ 2975  npm install
+ 2976  clear
+ 2977  node app.js
+ 2978  git add .
+ 2979  git commit -m "Dependency installation"
+ 2980  git push
+ 2981  code .
+ 2982  git add . 
+ 2983  git commit -m "Create validate method"
+ 2984  git push
+ 2985  git add .
+ 2986  git commit -m "Create GetBData method"
+ 2987  git push
+ 2988  git add .
+ 2989  git commit -m "Create addBlock method"
+ 2990  git push
+ 2991  git add .
+ 2992  git commit -m "create requestMessageOwnershipVerification method"
+ 2993  git push
+ 2994  git add .
+ 2995  git commit -m "create submitStar and getBlockByHash method"
+ 2996  node 
+ 2997  node
+ 2998  cd src
+ 2999  ls
+ 3000  node
+ 3001  git add .
+ 3002  git commit -m "Clean up and completion"
+ 3003  git push
+ 3004  cd ..
+ 3005  ls
+ 3006  node app.js
+ 3007  cd src
+ 3008  node
+ 3009  cd ..
+ 3010  node app.js
+ 3011  cd src
+ 3012  node
+ 3013  cd ..
+ 3014  node app.js
+ 3015  git add .
+ 3016  git commit -m "testing code and reimplementing"
+ 3017  git push
+ 3018  node app.js
+ 3019  git add . 
+ 3020  git commit -m "Corrections to methods in blockchain file"
+ 3021  git push
+ 3022  git add . 
+ 3023  git commit -m "Creation of validateChain endpoint and refactor of validatechain method"
+ 3024  git push
+ 3025  node app.js
+ 3026  git add .
+ 3027  git commit -m "Required files and link added"
+ 3028  git push
+ 3029  node app.js
+ 3030  git add .
+ 3031  git commit -m "refactor of validate method in block.js"
+ 3032  git push
+ 3033  git add .
+ 3034  git commit -m "photos"
+ 3035  git push
+ 3036  cd src
+ 3037  ls
+ 3038  node
+ 3039  cd ..
+ 3040  ls
+ 3041  node app.js
+ 3042  ^[OA
+ 3043  node app.js
+ 3044  cd src
+ 3045  node
+ 3046  cd .
+ 3047  cd ..
+ 3048  node app.js
+ 3049  git add .
+ 3050  git commit -m "refactor code to reviewer suggestions"
+ 3051  git push
+ 3052  cd ..
+ 3053  ls
+ 3054  npm install -g ganache-cli
+ 3055  ganache -cli
+ 3056  ganache-cli
+ 3057  ls
+ 3058  mkdir Lessons
+ 3059  cd Lessons
+ 3060  mkdir Transactions
+ 3061  cd Transactions
+ 3062  code .
+ 3063  npm init
+ 3064  npm install web3 --save
+ 3065  touch index.js
+ 3066  npm install ethereumjs.tx --save
+ 3067  npm install ethereumjs-tx --save
+ 3068  npm install
+ 3069  node index.js
+ 3070  npm install
+ 3071  node index.js
+ 3072  clear
+ 3073  touch remix.js
+ 3074  node remix.js
+ 3075  touch index.html
+ 3076  touch main.css
+ 3077  cd ..
+ 3078  npm install truffle -g
+ 3079  ls
+ 3080  mkdir TruffleDeployment
+ 3081  cd TruffleDeployment
+ 3082  ls
+ 3083  truffle init
+ 3084  ls
+ 3085  code .
+ 3086  truffle
+ 3087  truffle console
+ 3088  cd ..
+ 3089  ls
+ 3090  mkdir Solidity
+ 3091  cd Solidity
+ 3092  git clone https://github.com/PhilipTimothe/nd1309-work-code.git
+ 3093  ls
+ 3094  cd nd1309-work-code
+ 3095  code .
+ 3096  git branch -m master main
+ 3097  clear
+ 3098  git add .
+ 3099  git commit -m "First commit / Rename branch to main"
+ 3100  git push
+ 3101  ls
+ 3102  cd ..
+ 3103  ls
+ 3104  cd ..
+ 3105  ls
+ 3106  mkdir MyToken
+ 3107  cd MyToken
+ 3108  code .
+ 3109  clear
+ 3110  touch myToken.sol
+ 3111  cd ..
+ 3112  ls
+ 3113  mkdir OpenZeppelin_ERC20
+ 3114  cd OpenZeppelin_ERC20
+ 3115  truffle -v
+ 3116  truffle init
+ 3117  ls
+ 3118  npm install truffle-hdwallet-provider
+ 3119  npm install openzeppelin-solidity
+ 3120  ls
+ 3121  code .
+ 3122  git init
+ 3123  git commit -m "first commit"
+ 3124  git remote add origin https://github.com/PhilipTimothe/OpenZeppERC20.git
+ 3125  git commit -m "first commit"
+ 3126  git branch -M main
+ 3127  git init
+ 3128  git remote add origin https://github.com/PhilipTimothe/OpenZeppERC20.git
+ 3129  git add .
+ 3130  git commit -m "first commit"
+ 3131  git branch -M main
+ 3132  git push -u origin main
+ 3133  cd contracts
+ 3134  testToken.sol
+ 3135  touch testToken.sol
+ 3136  cd ..
+ 3137  npm install --save truffle-hdwallet-provider
+ 3138  npm install
+ 3139  npm install -g truffle
+ 3140  truffle
+ 3141  truffle version
+ 3142  cd ..
+ 3143  ls
+ 3144  mkdir starNotaryV1
+ 3145  cd starNotaryV1
+ 3146  truffle unbox webpack
+ 3147  truffle develop
+ 3148  code .
+ 3149  cd ..
+ 3150  ls
+ 3151  mkddir StarNotaryV2
+ 3152  mkdir StarNotaryV2
+ 3153  cd StarNotaryV2
+ 3154  ls
+ 3155  tuffle unbox webpack
+ 3156  truffle unbox webpack
+ 3157  npm install openzeppelin-solidity
+ 3158  code ,
+ 3159  code .
+ 3160  ls
+ 3161  cd ..
+ 3162  ls
+ 3163  cd ..
+ 3164  ls
+ 3165  cd Crypto_Star_Dapp
+ 3166  code .
+ 3167  npm install
+ 3168  npm install --save  openzeppelin-solidity@2.3\n
+ 3169  npm install --save  truffle-hdwallet-provider@1.0.17\n
+ 3170  npm install webpack-dev-server -g\n
+ 3171  npm install web3\n
+ 3172  rm -rf node_modules\n
+ 3173  npm cache clean\n
+ 3174  rm package-lock.json\n
+ 3175  npm cache clean\n
+ 3176  npm cache clean --force\n
+ 3177  npm init\n
+ 3178  npm install
+ 3179  truffle develop
+ 3180  git init
+ 3181  git add .
+ 3182  git commit -m "first commit"
+ 3183  git branch -M main
+ 3184  git remote add origin https://github.com/PhilipTimothe/Crypto_Star_Dapp.git
+ 3185  git push 0u origin main
+ 3186  git push -u origin main
+ 3187  git add .
+ 3188  git commit -m "implement symbol,token name, exhcange and transfer functions"
+ 3189  git push
+ 3190  clear
+ 3191  truffle develop
+ 3192  truffle version
+ 3193  npm install -g truffle
+ 3194  truffle version
+ 3195  npm install -g solc
+ 3196  truffle version
+ 3197  npm uinstall -g solc
+ 3198  npm uninstall -g solc
+ 3199  truffle version
+ 3200  npm install -g solc
+ 3201  npm install
+ 3202  truffle version
+ 3203  truffle develop
+ 3204  git add .
+ 3205  git commit -m "Implement testing done."
+ 3206  git push
+ 3207  truffle develop
+ 3208  npm run dev
+ 3209  npm install webpack-dev-server -g
+ 3210  npm init
+ 3211  npm install
+ 3212  ls
+ 3213  cd app
+ 3214  npm run dev
+ 3215  npm install webpack-dev-server -g
+ 3216  npm install
+ 3217  npm run dev
+ 3218  git add .
+ 3219  cd ..
+ 3220  git add .
+ 3221  git commit -m "implement webpack server and deployed"
+ 3222  git push
+ 3223  truffle version
+ 3224  truffle migrate --reset --network rinkeby
+ 3225  npm install env-cmd
+ 3226  npm install
+ 3227  truffle migrate --reset --network rinkeby
+ 3228  npm install dotenv --save
+ 3229  truffle migrate --reset --network rinkeby
+ 3230  git add .
+ 3231  git commit -m "Last stage of project"
+ 3232  git push
+ 3233  truffle migrate --reset --network rinkeby
+ 3234  truffle develop
+ 3235  cd app
+ 3236  npm install --save  openzeppelin-solidity@2.3
+ 3237  rm -rf node_modules
+ 3238  npm cache clean\n
+ 3239  rm package-lock.json
+ 3240  npm init
+ 3241  npm install
+ 3242  truffle
+ 3243  truffle develop
+ 3244  truffle migrate --reset --network rinkeby
+ 3245  cd ..
+ 3246  truffle migrate --reset --network rinkeby
+ 3247  truffle version
+ 3248  npm install -g truffle@5.0.2
+ 3249  truffle version
+ 3250  npm uninstall -g truffle
+ 3251  npm install -g truffle@5.0.2
+ 3252  truffle version
+ 3253  rm -rf node_modules
+ 3254  rm package-lock.json
+ 3255  npm init
+ 3256  npm install
+ 3257  truffle version
+ 3258  truffle develop
+ 3259  npm install -g truffle
+ 3260  truffle develop
+ 3261  truffle version
+ 3262  truffle develop
+ 3263  truffle migrate --reset --network rinkeby
+ 3264  truffle develop
+ 3265  truffle migrate --reset --network rinkeby
+ 3266  npm install -g truffle@5.0.2
+ 3267  truffle version
+ 3268  npm instal web3
+ 3269  npm install web3
+ 3270  npm install
+ 3271  truffle version
+ 3272  npm install
+ 3273  truffle version
+ 3274  truffle develop
+ 3275  npm install -g truffle
+ 3276  truffle version
+ 3277  npm install
+ 3278  npm uninstall truffle-hdwallet-provider
+ 3279  npm install @truffle/hdwallet-provider
+ 3280  npm install
+ 3281  truffle compile
+ 3282  truffle version
+ 3283  truffle compile
+ 3284  cd app
+ 3285  npm uninstall openzepplin-solidity@2.3
+ 3286  npm uninstall @openzeppelin/contracts
+ 3287  cd ..
+ 3288  npm uninstall openzepplin-solidity@2.3
+ 3289  npm install @openzeppelin/contracts
+ 3290  npm install
+ 3291  truffle compile
+ 3292  truffle migrate --reset --network rinkeby
+ 3293  truffle compile
+ 3294  git add .
+ 3295  git commit -m "Implementation update/refactors"
+ 3296  git push
+ 3297  truffle migrate --reset --network rinkeby
+ 3298  truffle compile
+ 3299  truffle migrate --reset --network rinkeby
+ 3300  truffle compile
+ 3301  truffle migrate --reset --network rinkeby
+ 3302  rm -rf node_modules
+ 3303  npm cache clean
+ 3304  npm cache clean --force
+ 3305  rm package-lock.json
+ 3306  npm init
+ 3307  npm install
+ 3308  truffle compile
+ 3309  truffle migrate --reset --network rinkeby
+ 3310  git add .
+ 3311  git commit -m "Node file removal"
+ 3312  git push
+ 3313  cd app
+ 3314  npm install
+ 3315  cd ..
+ 3316  npm install
+ 3317  truffle compile
+ 3318  rm -rf node_modules
+ 3319  npm cache clean --force
+ 3320  rm package-lock.json\n
+ 3321  npm init
+ 3322  npm install
+ 3323  cd app
+ 3324  rm package-lock.json\n
+ 3325  rm -rf node_modules
+ 3326  npm cache clean --force
+ 3327  npm install
+ 3328  rm -rf node_modules
+ 3329  rm package-lock.json\n
+ 3330  npm cache clean --force
+ 3331  npm install
+ 3332  rm -rf node_modules
+ 3333  rm package-lock.json\n
+ 3334  npm install
+ 3335  cd ..
+ 3336  rm package-lock.json\n
+ 3337  rm -rf node_modules
+ 3338  npm install
+ 3339  truffle compeile
+ 3340  truffle migrate --reset --network rinkeby
+ 3341  git add .
+ 3342  git commit -m "...\n"
+ 3343  git push
+ 3344  npm install
+ 3345  truffle compile
+ 3346  truffle migrate --reset --network rinkeby
+ 3347  truffle compile
+ 3348  truffle migrate --reset --network rinkeby
+ 3349  truffle compile
+ 3350  truffle migrate --reset --network rinkeby
+ 3351  cd app
+ 3352  npm install
+ 3353  truffle compile
+ 3354  npm i @truffle/hdwallet-provider
+ 3355  truffle compile
+ 3356  truffle migrate --reset --network rinkeby
+ 3357  npm uninstall truffle -g
+ 3358  npm install -g truffle
+ 3359  truffle compile
+ 3360  truffle migrate --reset --network rinkeby
+ 3361  npm install @openzeppelin/contracts
+ 3362  npm install
+ 3363  truffle compile
+ 3364  truffle migrate --reset --network rinkeby
+ 3365  truffle compile
+ 3366  truffle migrate --reset --network rinkeby
+ 3367  npm install
+ 3368  truffle migrate --reset --network rinkeby
+ 3369  cd ..
+ 3370  truffle compile
+ 3371  truffle migrate --reset --network rinkeby
+ 3372  which ipfs
+ 3373  cd ..
+ 3374  cd
+ 3375  ls
+ 3376  go get github.com/jbenet/go-ipfs/cmd/ipfs
+ 3377  brew install --formula ipfs
+ 3378  ipfs --version
+ 3379  curl -O https://dist.ipfs.io/go-ipfs/v0.12.0/go-ipfs_v0.12.0_darwin-amd64.tar.gz
+ 3380  tar -xvzf go-ipfs_v0.12.0_darwin-amd64.tar.gz
+ 3381  cd go-ipfs
+ 3382  bash install.sh
+ 3383  ipfs version
+ 3384  cd
+ 3385  ipfs version
+ 3386  which ipfs
+ 3387  cd go-ipfs
+ 3388  ipfs init
+ 3389  cd 
+ 3390  ls
+ 3391  cd Desktop
+ 3392  ls
+ 3393  cd Code
+ 3394  ls
+ 3395  cd Blockchain
+ 3396  ls
+ 3397  git clone https://github.com/udacity/nd1309/tree/master/course-5/project-6
+ 3398  mkdir Project6
+ 3399  cd Project6
+ 3400  git clone https://github.com/udacity/nd1309/tree/master/course-5/project-6
+ 3401  cd ..
+ 3402  cd Supplychain
+ 3403  git clone https://github.com/PhilipTimothe/nd1309-Project-6b-Example-Template.git
+ 3404  .s
+ 3405  ,s
+ 3406  ls
+ 3407  cd nd1309-Project-6b-Example-Template
+ 3408  code .
+ 3409  cd project-6
+ 3410  code .
+ 3411  npm install
+ 3412  git add .
+ 3413  git commit -m "Implementation of harvestItem()"
+ 3414  git push
+ 3415  cd ..
+ 3416  git add .
+ 3417  git commit -m "Implementation of harvestItem()"
+ 3418  git push
+ 3419  git add .
+ 3420  git commit -m "Implementation of harvestItem()"
+ 3421  git push
+ 3422  ls
+ 3423  cd ..
+ 3424  ls
+ 3425  cd ..
+ 3426  ls
+ 3427  LS
+ 3428  ls
+ 3429  git init
+ 3430  git add .
+ 3431  git commit -m "switch repository,. First commit"
+ 3432  git branch -M main
+ 3433  git remote add origin https://github.com/PhilipTimothe/Blockchain_Supplychain.git
+ 3434  git push -u origin main
+ 3435  ls
+ 3436  code .
+ 3437  cd project-6
+ 3438  git add .
+ 3439  git commit -m "implementation of processItem() and packitem()"
+ 3440  git push
+ 3441  clear
+ 3442  git add .
+ 3443  git commit -m "SupplyChain.sol implementation"
+ 3444  git push
+ 3445  truffle test
+ 3446  truffle
+ 3447  truffle develop
+ 3448  git add .
+ 3449  git commit -m "test implementation"
+ 3450  git push
+ 3451  npm install dotenv --save\n
+ 3452  npm install
+ 3453  npm audit fix --force
+ 3454  truffle develop
+ 3455  truffle migrate --reset --network rinkeby
+ 3456  clear
+ 3457  git add .
+ 3458  git commit -m "changes"
+ 3459  git push
+ 3460  git add .
+ 3461  git commit -m "node removal file"
+ 3462  git push
+ 3463  truffle versions
+ 3464  truffle version
+ 3465  git add .
+ 3466  git commit -m "Docs"
+ 3467  git push
+ 3468  git add ,
+ 3469  git add .
+ 3470  git commit -m "docs"
+ 3471  git push
+ 3472  git add .
+ 3473  git commit -m ""
+ 3474  git push
+ 3475  git add ,
+ 3476  git add .
+ 3477  git commit -m "docs"
+ 3478  cd ..
+ 3479  git add .
+ 3480  git commit -m "docs"
+ 3481  git push
+ 3482  ls
+ 3483  cd ..
+ 3484  ls
+ 3485  mkdir Module_6
+ 3486  cd Module_6
+ 3487  git clone https://github.com/udacity/BCND-C6-Exercises.git
+ 3488  cd BCND-C6-Exercises
+ 3489  ls
+ 3490  code .
+ 3491  git checkout ExerciseC6A
+ 3492  npm install
+ 3493  npm test
+ 3494  truffle test
+ 3495  npm test
+ 3496  truffle develop
+ 3497  npm test
+ 3498  truffle develop
+ 3499  git checkout ExerciseC6B
+ 3500  git stash
+ 3501  git checkout ExerciseC6B
+ 3502  git checkout ExerciseC6C
+ 3503  npm install
+ 3504  git stash
+ 3505  git checkout ExerciseC6D
+ 3506  git stash
+ 3507  git checkout ExerciseC6D
+ 3508  npm install
+ 3509  cd ,,
+ 3510  cd ..
+ 3511  ks
+ 3512  cd ,,
+ 3513  cd ..
+ 3514  ks
+ 3515  ls
+ 3516  mkdir FlightSurety
+ 3517  cd FlightSurety
+ 3518  git clone https://github.com/udacity/FlightSurety.git
+ 3519  ls
+ 3520  git init
+ 3521  git add .
+ 3522  git commit -m "first commit"
+ 3523  git branch -M main
+ 3524  git remote add origin https://github.com/PhilipTimothe/FlightSurety.git
+ 3525  git push -u origin main
+ 3526  ls
+ 3527  code .
+ 3528  npm install
+ 3529  clear
+ 3530  npm install
+ 3531  npm install --force
+ 3532  npm install
+ 3533  git add .
+ 3534  git commit -m "package.json update"
+ 3535  git push
+ 3536  cd Desktop
+ 3537  ls
+ 3538  Code
+ 3539  ls
+ 3540  Blockchain
+ 3541  ls
+ 3542  cd PinkLabel
+ 3543  npx create-react-app PinkLabel
+ 3544  npx create-react-app pinklabel
+ 3545  ls
+ 3546  cd ..
+ 3547  ls
+ 3548  cd pinklabel
+ 3549  code .
+ 3550  git init
+ 3551  git add .
+ 3552  git commit -m "first commit"
+ 3553  git branch -M main
+ 3554  git remote add origin https://github.com/PhilipTimothe/PinkLabel.git
+ 3555  git push -u origin main
+ 3556  truffle init
+ 3557  git add .
+ 3558  git commit -m "Truffle installation"
+ 3559  git push
+ 3560  npm install @openzeppelin/contracts
+ 3561  npm audit fix
+ 3562  npm audit fix --force
+ 3563  npm audit fix
+ 3564  npm install web3
+ 3565  npm install @openzeppelin/contracts
+ 3566  npm install web3
+ 3567  npm install
+ 3568  clear
+ 3569  mkdir Frontend
+ 3570  cd Frontend
+ 3571  cd ..
+ 3572  mkdir backend
+ 3573  cd backend
+ 3574  tuffle init
+ 3575  truffle init
+ 3576  cd ..
+ 3577  mkdir frontend
+ 3578  cd frontend
+ 3579  npx create-react-app pinklabel
+ 3580  cd ..
+ 3581  cd backend
+ 3582  npm install web3
+ 3583  npm install @openzeppelin/contracts
+ 3584  clear
+ 3585  cd 
+ 3586  cd Desktop/Code/Blockchain/pinklabel
+ 3587  git add .
+ 3588  git commit -m "rearrange codebase to more practically applicable use.  creation of frontend and backend file"
+ 3589  git push
+ 3590  npm run
+ 3591  npm install http-server
+ 3592  http-server [path] [options]
+ 3593  http-server
+ 3594  cd src
+ 3595  ls
+ 3596  cd components
+ 3597  ls
+ 3598  cd ..
+ 3599  ks
+ 3600  ls
+ 3601  cd ,,
+ 3602  cd ..
+ 3603  ls
+ 3604  cd index.html
+ 3605  npm install
+ 3606  http-server
+ 3607  node -v
+ 3608  npm install -g http-server
+ 3609  http-server
+ 3610  npm install
+ 3611  npm uninstall
+ 3612  npm install
+ 3613  http-server
+ 3614  cd 
+ 3615  ls
+ 3616  cd Desktop
+ 3617  ls
+ 3618  cd ..
+ 3619  ls
+ 3620  npm install canvas-sketch-cli -g
+ 3621  npm install -g npm@8.16.0
+ 3622  npm -v
+ 3623  ls
+ 3624  cd Desktop
+ 3625  ls
+ 3626  cd Code
+ 3627  ls
+ 3628  mkdir CreativeCodingI
+ 3629  cd CreativeCodingI
+ 3630  mkdir UnitI
+ 3631  cd UnitI
+ 3632  mkdir Fundamentals
+ 3633  cd Fundamentals
+ 3634  canvas-sketch sketch-01.js --new
+ 3635  ls
+ 3636  code .
+ 3637  npm run
+ 3638  npm install
+ 3639  npm run
+ 3640  cd ske
+ 3641  canvas-sketch
+ 3642  canvas-sketch sketch-01.js
+ 3643  canvas-sketch sketch-01.js --output=output/01
+ 3644  ls
+ 3645  cd ..
+ 3646  ls
+ 3647  cd ..
+ 3648  ls
+ 3649  git init
+ 3650  git branch -M main
+ 3651  git add
+ 3652  git add .
+ 3653  git commit
+ 3654  git branch -M main
+ 3655  git commit -m "First Course Commit"
+ 3656  git branch -M main
+ 3657  git push -u origin main
+ 3658  git push
+ 3659  cd .,
+ 3660  cd ..
+ 3661  cd CreativeCoding/ls
+ 3662  ls
+ 3663  cd CreativeCoding
+ 3664  ls
+ 3665  git commit -m "First Course Commit"
+ 3666  git add .
+ 3667  git commit -m "First Course Commit"
+ 3668  git remote add origin https://github.com/PhilipTimothe/CreativeCoding.git
+ 3669  git push -u origin main
+ 3670  canvas-sketch sketch-01.js
+ 3671  cd CreativeCodingI
+ 3672  ls
+ 3673  cd UnitI
+ 3674  cd ..
+ 3675  ls
+ 3676  mkdir UnitII
+ 3677  ks
+ 3678  ls
+ 3679  cd UnitII
+ 3680  canvas-sketch sketch-02 --new --open
+ 3681  code .
+ 3682  git add .
+ 3683  git push
+ 3684  git push -u origin main
+ 3685  git add .
+ 3686  git push -u origin main
+ 3687  git push
+ 3688  git push force
+ 3689  cd ..
+ 3690  git push
+ 3691  cd CreativeCodingI
+ 3692  cd UnitII
+ 3693  git add .
+ 3694  git commit -m "Translate and Restore introduction"
+ 3695  git push -u origin main
+ 3696  git add .
+ 3697  git commit -m "Angles"
+ 3698  git push -u origin main
+ 3699  npm install canvas-sketch-util
+ 3700  git add .
+ 3701  git commit -m "Sketch Transform Completion"
+ 3702  git push -u origin main
+ 3703  ls
+ 3704  cd ..
+ 3705  ls
+ 3706  UnitIV
+ 3707  mkdir UnitIV
+ 3708  cd UnitIV
+ 3709  ls
+ 3710  canvas-sketch sketch-03.js --new --open
+ 3711  ls
+ 3712  cd ..
+ 3713  ls
+ 3714  cd UnitIV
+ 3715  ls
+ 3716  code .
+ 3717  git add .
+ 3718  git commit -m "New Unit Session"
+ 3719  git push
+ 3720  canvas-sketch sketch-03.js
+ 3721  cd ..
+ 3722  ls
+ 3723  cd UnitIV
+ 3724  canvas-sketch sketch-02.js
+ 3725  canvas-sketch sketch-03.js
+ 3726  npm run bundle-live-client
+ 3727  npm install
+ 3728  canvas-sketch sketch-03.js
+ 3729  npm install budo -g
+ 3730  canvas-sketch sketch-03.js
+ 3731  npm install canvas-sketch-util --save\n
+ 3732  canvas-sketch sketch-03.js
+ 3733  git add .
+ 3734  git commit -m "Step one (implementation of object classes) completed)\n\n
+ 3735  git commit -m "Step one (implementation of object classes) completed)\n\n\n\nC\nC
+ 3736  git commit -m "Step one (implementation of object classes) completed)"\n\n\n\nC\nC
+ 3737  git push
+ 3738  canvas-sketch sketch-03.js
+ 3739  git add .
+ 3740  git commit -m "Animated sketch"
+ 3741  git push
+ 3742  canvas-sketch sketch-03.js
+ 3743  git add .
+ 3744  git commit -m "Add line to agents"
+ 3745  git push
+ 3746  canvas-sketch sketch-03.js
+ 3747  npm install @ffmpeg-installer/ffmpeg --global
+ 3748  git add .
+ 3749  git commit -m "Lesson completion"
+ 3750  git push
+ 3751  git add .
+ 3752  git commit -m "Lesson completion"
+ 3753  git push
+ 3754  git add .
+ 3755  git push
+ 3756  cd Desktop/Code/CreativeCoding/CreativeCodingI/UnitIV
+ 3757  git push
+ 3758  cd ..
+ 3759  git clone https://github.com/PhilipTimothe/CreativeCoding.git
+ 3760  cd CreativeCoding
+ 3761  cd CreativeCodingI
+ 3762  cd '\nk
+ 3763  ls
+ 3764  cd UnitIV
+ 3765  ls
+ 3766  code .
+ 3767  git add .
+ 3768  git commit -m "lesson completion"
+ 3769  git push
+ 3770  ls -al ~/.ssh
+ 3771  ssh-keygen -t ed25519 -C "philippetimothe@gmail.com"
+ 3772  pbcopy < ~/.ssh/id_ed25519.pub
+ 3773  git add .
+ 3774  git commit -m "lesson completion"
+ 3775  git push
+ 3776  ssh -T git@github.com
+ 3777  git config credential.helper 
+ 3778  git push
+ 3779  cd ..
+ 3780  ls
+ 3781  cd ..
+ 3782  cd 
+ 3783  cd Desktop/Code
+ 3784  ls
+ 3785  git clone git@github.com:PhilipTimothe/CreativeCoding.git
+ 3786  cd CreativeCoding
+ 3787  cd CreativeCodingI
+ 3788  ls
+ 3789  cd UnitIV
+ 3790  code .
+ 3791  git add .
+ 3792  git commit -m "final"
+ 3793  git push
+ 3794  cd ..
+ 3795  ls
+ 3796  mkdir UnitV
+ 3797  cd UnitV
+ 3798  canas-sketch sketch-04 --new --open
+ 3799  canvas-sketch sketch-04 --new --open
+ 3800  code .
+ 3801  git add .
+ 3802  git commit -m "new lesson"
+ 3803  git push
+ 3804  git add . 
+ 3805  git commit -m "Creation of flat sketch"
+ 3806  git push
+ 3807  npm install canvas-sketch-util --save 
+ 3808  npm i tweakpane
+ 3809  git add .
+ 3810  git commit -m "completion of sketch 4"
+ 3811  git push
+ 3812  ls
+ 3813  cd Desktop
+ 3814  ls
+ 3815  cd Code
+ 3816  ls
+ 3817  mkdir NichProject
+ 3818  mkdir NicheProject
+ 3819  cd nic
+ 3820  ls
+ 3821  NicheProject
+ 3822  git clone git@github.com:PhilipTimothe/NicheSchema.git
+ 3823  ls 
+ 3824  cd NicheSchema
+ 3825  code .
+ 3826  npm uninstall -g create-react-app
+ 3827  npx create-react-app niche-schema
+ 3828  ls
+ 3829  git add .
+ 3830  git commit -m "create react app"
+ 3831  git push
+ 3832  npm install firebase
+ 3833  npm install
+ 3834  ls
+ 3835  cd niche-schema
+ 3836  ls
+ 3837  npm install
+ 3838  cd ..
+ 3839  ls
+ 3840  npm install
+ 3841  cd niche-schema
+ 3842  npm install
+ 3843  npm install -g firebase-tools
+ 3844  npm install formik --save
+ 3845  start
+ 3846  npm start
+ 3847  npm install semantic-ui-react semantic-ui-css
+ 3848  npm start
+ 3849  npm install
+ 3850  npm start
+ 3851  npm install semantic-ui-react
+ 3852  $  npm uninstall semantic-ui semantic-ui-css
+ 3853  npm uninstall semantic-ui semantic-ui-css
+ 3854  npm install semantic-ui-react semantic-ui-css
+ 3855  npm start
+ 3856  bundle install
+ 3857  install
+ 3858  npm uninstall semantic-ui semantic-ui-css
+ 3859  npm install --ignore-scripts fomantic-ui
+ 3860  cd node_modules/fomantic-ui
+ 3861  npx gulp install
+ 3862  npx gulp build
+ 3863  npm install
+ 3864  npm install semantic-ui-react semantic-ui-css
+ 3865  npm start
+ 3866  cd ..
+ 3867  ls
+ 3868  cd ..
+ 3869  cd Desktop
+ 3870  cd ..
+ 3871  ls
+ 3872  cd ..
+ 3873  ls
+ 3874  cd Users
+ 3875  ls
+ 3876  cd Philip
+ 3877  ls
+ 3878  cd Desktop
+ 3879  ls
+ 3880  cd Code
+ 3881  ls
+ 3882  cd NicheProject
+ 3883  ls
+ 3884  cd NicheSchema
+ 3885  ls
+ 3886  cd niche-schema
+ 3887  npm install
+ 3888  npm install semantic-ui-react semantic-ui-css
+ 3889  npm start
+ 3890  npm install
+ 3891  npm install semantic-ui-css
+ 3892  npm install --dev @semantic-ui-react/css-patch\n
+ 3893  npm install
+ 3894  npm start
+ 3895  npm install
+ 3896  npm start
+ 3897  npm uninstall semantic-ui-react semantic-ui-css
+ 3898  npm install @mui/material @emotion/react @emotion/styled\n
+ 3899  npm install @fontsource/roboto\n
+ 3900  npm install @mui/icons-material\n
+ 3901  npm start
+ 3902  npm install @mui/lab @mui/material\n
+ 3903  npm start
+ 3904  git add .
+ 3905  git commit -m "UI library installation, Early stage implementation of main UI"
+ 3906  git push
+ 3907  npm start
+ 3908  git add .
+ 3909  git commit -m "Early stage card implementation."
+ 3910  git push
+ 3911  npm start
+ 3912  npm install @mui/x-data-grid
+ 3913  git add .
+ 3914  git commit -m "parsed schema in app file"
+ 3915  git push
+ 3916  npm start
+ 3917  git add .
+ 3918  git commit -m "Working toward debugging table implementation"
+ 3919  git push
+ 3920  npm start
+ 3921  npm install uniqid
+ 3922  npm start
+ 3923  git add .
+ 3924  git commit -m "Implementaion of schema validation conditions along with error handling."
+ 3925  git push
+ 3926  npm start
+ 3927  git add .
+ 3928  git commit -m "Toggle functionality created to allow/disallow viewing document card."
+ 3929  git push
+ 3930  npm start
+ 3931  npm install @react-spring/web
+ 3932  npm start
+ 3933  git add .
+ 3934  git commit -m "Modal component  on card implemented."  
+ 3935  git push
+ 3936  git add .
+ 3937  git commit -m "Component formating for proficient readablity."
+ 3938  git push
+ 3939  npm start
+ 3940  git add . 
+ 3941  git commit -m "Timestamp debugged"
+ 3942  git push
+ 3943  npm start
+ 3944  cd Desktop/Code
+ 3945  ls
+ 3946  mkdir PhilipPortfolio
+ 3947  cd PhilipPortfolio
+ 3948  git clone git@github.com:PhilipTimothe/Philip-Timothe.git
+ 3949  ls
+ 3950  cd Philip-Timothe
+ 3951  code .
+ 3952  ls
+ 3953  npm install firebase
+ 3954  npx create-react-app philip-portfolio
+ 3955  ls
+ 3956  npm install firebase
+ 3957  git add .
+ 3958  git commit -m "Created react app and installed firebase sdk"
+ 3959  git push
+ 3960  npm install -g firebase-tools
+ 3961  firebase login
+ 3962  firebase init
+ 3963  npm start
+ 3964  npm install @mui/material @emotion/react @emotion/styled\n
+ 3965  npm install @mui/material @mui/styled-engine-sc styled-components\n
+ 3966  npm install @fontsource/roboto\n
+ 3967  npm install @mui/icons-material\n
+ 3968  git add .
+ 3969  git commit -m "Material UI installation. CSS animation for landing page logo implemented."
+ 3970  git push
+ 3971  npm start
+ 3972  npm install --save styled-components
+ 3973  npm install
+ 3974  npm start
+ 3975  npm install @material-ui/core
+ 3976  npm start
+ 3977  git add 
+ 3978  git add .
+ 3979  git commit -m "Seperation of concerns by way of components file.  Landing page stage one completed."
+ 3980  git push
+ 3981  npm start
+ 3982  npm install --save-dev jest
+ 3983  npm install --save-dev @testing-library/react
+ 3984  npm test
+ 3985  git add .
+ 3986  git commit -m 'LandingView component test file created.  LandingView index file created. First test implemented - should render image test..'
+ 3987  git push
+ 3988  npm test
+ 3989  git add .
+ 3990  git commit -m 'Implementation of name title test and work title test.'
+ 3991  git push
+ 3992  npm start
+ 3993  npm install @mui/icons-material
+ 3994  npm start
+ 3995  git add .
+ 3996  git commit -m "refactor"
+ 3997  git push
+ 3998  npm start
+ 3999  git add .
+ 4000  git commit -m 'Proficiencies section progress.  Dividers, Grid, icons implemented on Card."\n
+ 4001  git commit -m 'Proficiencies section progress.  Dividers, Grid, icons implemented on Card.'\n
+ 4002  git push
+ 4003  npm start
+ 4004  git add .
+ 4005  git commit -m "First phase of skill card implentation complete"
+ 4006  git push
+ 4007  npm start
+ 4008  npm install react-reveal --save\n
+ 4009  npm i react-reveal --legacy-peer-deps
+ 4010  npm start
+ 4011  git add .
+ 4012  git commit -m 'installation of reveal legacy library.  Possible migration to a alternate library in the near future.'
+ 4013  git push
+ 4014  npm i --save-dev @types/react-reveal
+ 4015  npm start
+ 4016  npm test
+ 4017  npm start
+ 4018  npm uninstall react-reveal --legacy-peer-deps
+ 4019  npm install react-visibility-sensor
+ 4020  npm start
+ 4021  npm uninstall react-visibility-sensor
+ 4022  npm i react-visibility-sensor-v2
+ 4023  npm start
+ 4024  npm uninstall react-visibility-sensor-v2
+ 4025  npm i react-visibility-sensor
+ 4026  npm start
+ 4027  npm test
+ 4028  npm start
+ 4029  git add .
+ 4030  git commit -m 'Installation of package visibility sensor and removal of reveal.  Refactor component.  Animations implemented and working as intended."
+ 4031  git commit -m 'Installation of package visibility sensor and removal of reveal.  Refactor component.  Animations implemented and working as intended.'
+ 4032  git push
+ 4033  npm start
+ 4034  npm install @react-spring/web
+ 4035  npm start
+ 4036  git add .
+ 4037  git commit -m 'Addition of skill modal which includes skill iframe video'
+ 4038  git push
+ 4039  npm start
+ 4040  git add .
+ 4041  git commit -m 'debugging card resizing responsiveness'
+ 4042  git push
+ 4043  npm start
+ 4044  git add .
+ 4045  git commit -m 'Early stages of project section implementation'
+ 4046  git push
+ 4047  git add .
+ 4048  git commit -m 'Creating work experience section of website'
+ 4049  git push
+ 4050  git checkout -b develop
+ 4051  git add .
+ 4052  git commit -m "new branch
+ 4053  git commit -m "new branch"
+ 4054  git push
+ 4055  git switch main
+ 4056  git switch develop
+ 4057  git switch main
+ 4058  git add .
+ 4059  git commit -m 'testing branches'
+ 4060  git switch develop
+ 4061  git switch main
+ 4062  git push
+ 4063  git switch develop
+ 4064  git switch main
+ 4065  npm start
+ 4066  git add . 
+ 4067  git commit -m 'test change'
+ 4068  git push
+ 4069  git switch develop
+ 4070  git switch main
+ 4071  git switch develop
+ 4072  git switch main
+ 4073  npm install gh-pages --save-dev
+ 4074  npm audit fix
+ 4075  git add .
+ 4076  git commit -m 'creating deployment feature'
+ 4077  git push
+ 4078  git fetch --dry-run
+ 4079  git pull upstream main
+ 4080  git fetch  main
+ 4081  git pull origin main
+ 4082  git switch develop
+ 4083  git fetch origin main
+ 4084  git switch main
+ 4085  git add .
+ 4086  git commit -m 'pages changes'
+ 4087  git push
+ 4088  git switch develop
+ 4089  git fetch origin main
+ 4090  git fetch origin
+ 4091  git rebase main
+ 4092  git switch main
+ 4093  git add .
+ 4094  git commit -m 'yml file update'
+ 4095  git push
+ 4096  git branch
+ 4097  git push
+ 4098  git add .
+ 4099  git commit -m 'yml file fix\n
+ 4100  git commit -m 'yml file fix'\n
+ 4101  git push
+ 4102  node -v
+ 4103  git add .
+ 4104  git commit -m 'yml fix'
+ 4105  git push
+ 4106  npm start
+ 4107  git add .
+ 4108  git commit -m 'final yml fix'
+ 4109  git push
+ 4110  npm start
+ 4111  git add .
+ 4112  git commit -m 'yml move tests command'
+ 4113  git push
+ 4114  npm test
+ 4115  git add .
+ 4116  git commit -m 'test files removal'
+ 4117  git push
+ 4118  git add .
+ 4119  git commit -m 'removal of unused feature'
+ 4120  git push
+ 4121  git add .
+ 4122  git commit -m 'badge creating in readme'
+ 4123  git push
+ 4124  git add .
+ 4125  git commit -m 'changes to yml'
+ 4126  git push
+ 4127  git pull
+ 4128  git push
+ 4129  git add .
+ 4130  git commit -m 'revised yml'
+ 4131  git push
+ 4132  git add .
+ 4133  git commit -m 'yml update
+ 4134  git commit -m 'yml update'
+ 4135  git push
+ 4136  git add .
+ 4137  git commit -m 'yml update'
+ 4138  git push
+ 4139  git add .
+ 4140  git commit -m 'yml update'
+ 4141  git push
+ 4142  git add .
+ 4143  git commit -m 'yml update'
+ 4144  git push
+ 4145  git add .
+ 4146  git commit -m 'yml update'
+ 4147  git push
+ 4148  git add .
+ 4149  git commit -m 'yml update'
+ 4150  git push
+ 4151  git add .
+ 4152  git commit -m 'yml update'
+ 4153  git push
+ 4154  git add .
+ 4155  git commit -m 'yml'
+ 4156  git push
+ 4157  git add .
+ 4158  git commit -m 'yml'
+ 4159  git push
+ 4160  git add .
+ 4161  git commit -m 'yml'
+ 4162  git push
+ 4163  git add .
+ 4164  git commit -m 'yml'
+ 4165  git push
+ 4166  git add .
+ 4167  git commit -m 'yml'
+ 4168  git push
+ 4169  git add .
+ 4170  git commit -m 'yml'
+ 4171  git push
+ 4172  git add .
+ 4173  git commit -m 'yml'
+ 4174  git push
+ 4175  git add .
+ 4176  git commit -m 'yml'
+ 4177  git push
+ 4178  git add .
+ 4179  git commit -m 'yml'
+ 4180  git push
+ 4181  git add .
+ 4182  git commit -m 'yml'
+ 4183  git push
+ 4184  git add .
+ 4185  git commit -m 'yml'
+ 4186  git push
+ 4187  git add .
+ 4188  git commit -m 'yml'
+ 4189  git push
+ 4190  git add .
+ 4191  git commit -m 'yml'
+ 4192  git push
+ 4193  git add .
+ 4194  git commit -m 'yml'
+ 4195  git push
+ 4196  git add .
+ 4197  git commit -m 'yml'
+ 4198  git push
+ 4199  git add .
+ 4200  git commit -m 'yml'
+ 4201  git push
+ 4202  git add .
+ 4203  git commit -m 'final edit to yml'
+ 4204  git push
+ 4205  git switch develop
+ 4206  git rebase main
+ 4207  npm starrt
+ 4208  npm start
+ 4209  git add .
+ 4210  git commit -m "Early stage implementation of work timeline.  Firestore addition."
+ 4211  npm start
+ 4212  npm install @mui/lab @mui/material
+ 4213  npm start
+ 4214  git add .
+ 4215  git commit -m 'Introduction of jobs data fetched from firestore'
+ 4216  npm start
+ 4217  git add .
+ 4218  git commit -m 'All job data effectively is iterated and show on UI'
+ 4219  npm start
+ 4220  git add .
+ 4221  git commit -m 'collective database intergration progress'
+ 4222  git push
+ 4223  npm start
+ 4224  git add .
+ 4225  git commit -m 'implementations to projects section'
+ 4226  git push
+ 4227  npm start
+ 4228  git add .
+ 4229  git commit -m 'project card and first level details implemented'
+ 4230  git push
+ 4231  npm start
+ 4232  git add .
+ 4233  git commit -m 'minor adjustments to modal and functionality'
+ 4234  git push
+ 4235  npm start
+ 4236  git add .
+ 4237  git commit -m 'Proper implementation of projects/ early stages of social icons addition'
+ 4238  git push
+ 4239  npm start
+ 4240  git add .
+ 4241  git commit -m "correction to icon grid alignment'\n
+ 4242  git commit -m "correction to icon grid alignment"\n
+ 4243  git push
+ 4244  npm start
+ 4245  git add .
+ 4246  git commit -m 'icon implementation for landingview and professional timeline'
+ 4247  git push
+ 4248  git switch main
+ 4249  git fetch origin
+ 4250  git fetch main
+ 4251  git fetch origin
+ 4252  git fetch git@github.com:PhilipTimothe/Philip-Timothe.git
+ 4253  git fetch develop
+ 4254  git fetch git@github.com:PhilipTimothe/Philip-Timothe.git develop
+ 4255  git fetch origin main
+ 4256  git checkout main
+ 4257  git pull
+ 4258  git add .
+ 4259  git commit -m 'Removal of readMe sudo info'
+ 4260  npx eslint --init
+ 4261  npm init @eslint/config
+ 4262  eslint --fix
+ 4263  npm uninstall  @eslint/config
+ 4264  npm start
+ 4265  git add .
+ 4266  git commit -m 'About me modal implemented'
+ 4267  git push
+ 4268  /Applications/MetaTrader\ 5.app/Contents/MacOS/MetaTrader\ 5 ; exit;
+ 4269  conda --version
+ 4270  conda update conda
+ 4271  ;s
+ 4272  ls
+ 4273  pip install jupyterlab
+ 4274  jupyter-lab
+ 4275  conda deactivate
+ 4276  ls
+ 4277  cd Desktop
+ 4278  ls
+ 4279  cd Code
+ 4280  ls
+ 4281  cd Columbia_University
+ 4282  ls
+ 4283  mkdir FinTech_Workspace
+ 4284  ls
+ 4285  cd FinTech_Workspace
+ 4286  jupyter-lab
+ 4287  ls
+ 4288  cd Desktop/Code/Columbia_University
+ 4289  ls
+ 4290  cd FinTech_Workspace
+ 4291  ls
+ 4292  mkdir Jupyter_Lab
+ 4293  ls
+ 4294  cd Jupyter_Lab
+ 4295  jupyter-lab
+ 4296  mkdir Challenges
+ 4297  cd Challenges
+ 4298  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-1.git
+ 4299  ls
+ 4300  cd Fin-Tech-Module-1
+ 4301  code .
+ 4302  git add .
+ 4303  git commit -m "Loan_analyzer python file added"
+ 4304  git push
+ 4305  git add .
+ 4306  git commit -m "Completion of part 1 through 4"
+ 4307  git push
+ 4308  git add .
+ 4309  git commit -m "Completion of part 5.\n"
+ 4310  git commit -m "Completion of part 5"
+ 4311  git push
+ 4312  git add .
+ 4313  git commit -m "Addition of minor comments for clarity"
+ 4314  git push
+ 4315  cd .. ..
+ 4316  cd ../..
+ 4317  mkdir In_Class_Challenges
+ 4318  cd In_Class_Challenges
+ 4319  cd ..
+ 4320  cd ../../../..
+ 4321  ls
+ 4322  pip install fire
+ 4323  pip install questionary
+ 4324  cd ..
+ 4325  ls
+ 4326  cd Jupyter_Lab
+ 4327  cd ..
+ 4328  ls
+ 4329  cd ..
+ 4330  ls
+ 4331  cd Desktop/Code/Columbia_University/FinTech_Workspace
+ 4332  ls
+ 4333  l
+ 4334  ls
+ 4335  cd Live_Class_Activities
+ 4336  ls
+ 4337  cd Module_2
+ 4338  ls
+ 4339  cd Virtual_Class_2
+ 4340  code .
+ 4341  ls
+ 4342  conda create -n atmdev python=3.7 anaconda\n
+ 4343  ls
+ 4344  cd 02
+ 4345  cd 02_Stu_Build_ATM_Functions
+ 4346  ls
+ 4347  conda create -n atmdev python=3.7 anaconda\n
+ 4348  conda activate atmdev
+ 4349  ls
+ 4350  cd Unsolved
+ 4351  ls
+ 4352  pip install -r requirements.txt
+ 4353  code .
+ 4354  ls
+ 4355  pip install questionary
+ 4356  code .
+ 4357  conda deactivate dev
+ 4358  conda deactivate base
+ 4359  conda activate base
+ 4360  ls
+ 4361  cd ..
+ 4362  ls
+ 4363  cd ..
+ 4364  ls
+ 4365  cd ..
+ 4366  ls
+ 4367  cd ..
+ 4368  ls
+ 4369  cd ../..
+ 4370  ls
+ 4371  cd FinTech_Workspace
+ 4372  ls
+ 4373  cd Challenges
+ 4374  ls
+ 4375  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-2.git
+ 4376  ls
+ 4377  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-2.git
+ 4378  $ ssh-keygen -t ed25519 -C "PhilippeTimothe@gmail.com"\n
+ 4379  conda deactivate
+ 4380  $ ssh-keygen -t ed25519 -C "PhilippeTimothe@gmail.com"\n
+ 4381  ssh-keygen -t ed25519 -C "PhilippeTimothe@gmail.com"\n
+ 4382  open ~/.ssh/config
+ 4383  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+ 4384  ssh-add ~/.ssh/id_ed25519
+ 4385  pbcopy < ~/.ssh/id_ed25519.pub
+ 4386  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-2.git
+ 4387  open /Users/Philip/.ssh/known_hosts
+ 4388  open /Users/Philip/.ssh/known_hosts:2
+ 4389  pbcopy < ~/.ssh/id_ed25519.pub
+ 4390  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-2.git
+ 4391  ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH4qx8eZqJQhosMZ+GCVm+MPouKoDy+HGHczR7B+Vzmh PhilippeTimothe@gmail.com\n
+ 4392  ssh-keyscan -t rsa server_ip
+ 4393  ssh -i ~/.ssh/private.key -o UserKnownHostsFile=/github/home/.ssh/known_hosts -tt <USER>@<IP> "echo test > testfile1"
+ 4394  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-2.git
+ 4395  ssh-keyscan -t rsa 140.82.112.4
+ 4396  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-2.git
+ 4397  sed -i 2d ~/.ssh/known_hosts
+ 4398  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-2.git
+ 4399  ssh-keygen -R 140.82.113.4
+ 4400  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-2.git
+ 4401  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-1.git
+ 4402  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-2.git
+ 4403  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-1.git
+ 4404  cd ..
+ 4405  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-1.git
+ 4406  cd Challenges
+ 4407  ssh-keygen -R github.com
+ 4408  curl -L https://api.github.com/meta | jq -r '.ssh_keys | .[]' | sed -e 's/^/github.com /' >> ~/.ssh/known_hosts
+ 4409  git clone git@github.com:PhilipTimothe/Fin-Tech-Module-2.git
+ 4410  ls
+ 4411  cd Fin-Tech-Module-2
+ 4412  code .
+ 4413  conda activate /Users/Philip/opt/anaconda3
+ 4414  git add .
+ 4415  git commit -m "Mock files added"
+ 4416  git push
+ 4417* sed -i 4d ~/.ssh/known_hosts
+ 4418  git add .
+ 4419  git commit -m 'save_qualifying_loans implementation'
+ 4420  git push
+ 4421  sed -i 7d ~/.ssh/known_hosts

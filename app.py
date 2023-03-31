@@ -117,7 +117,7 @@ def save_qualifying_loans(qualifying_loans):
     # YOUR CODE HERE!
     if not qualifying_loans.exists():
         sys.exit(f"Oops! There are no qualifying loans")
-    csvpath = questionary.text("Save Qualifying Loans as a CSV File? Answer: yes or no").confirm().ask()
+    csvpath = questionary.confirm("Save Qualifying Loans as a CSV File? Answer: yes or no").ask()
     if csvpath == 'yes':
         csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
         csvpath = Path(csvpath)
